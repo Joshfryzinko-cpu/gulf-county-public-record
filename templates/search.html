@@ -1,0 +1,132 @@
+{% extends "public/base.html" %}
+{% block title %}Search — {{ q }}{% endblock %}
+
+{% block extra_style %}
+.result-card { background:#fff; border-radius:10px; border:1px solid var(--border); padding:16px 20px; margin-bottom:12px; }
+.result-type { font-size:.65rem; font-weight:700; text-transform:uppercase; letter-spacing:.08em; padding:2px 8px; border-radius:10px; }
+.type-knowledge { background:#dbeafe; color:#1e40af; }
+.type-meeting   { background:#dcfce7; color:#15803d; }
+.type-flag      { background:#fee2e2; color:#b91c1c; }
+.result-title { font-size:.95rem; font-weight:700; color:var(--navy); margin:4px 0 2px; }
+.result-meta  { font-size:.72rem; color:#888; margin-bottom:6px; }
+.result-excerpt { font-size:.82rem; color:#555; line-height:1.65; background:#fffde7; padding:6px 10px; border-radius:6px; border-left:3px solid #ffd166; }
+.flag-badge { font-size:.65rem; font-weight:700; padding:2px 7px; border-radius:8px; color:#fff; }
+.search-hero { background:var(--navy); border-radius:12px; padding:20px 24px; margin-bottom:20px; }
+.search-hero input { background:rgba(255,255,255,.1); border:2px solid rgba(255,209,102,.4); color:#fff; border-radius:10px; padding:12px 18px; font-size:.95rem; width:100%; outline:none; }
+.search-hero input:focus { border-color:#ffd166; }
+.search-hero input::placeholder { color:rgba(255,255,255,.4); }
+.search-hero button { background:#ffd166; color:#0a0c1e; border:none; border-radius:8px; padding:12px 22px; font-weight:700; cursor:pointer; }
+.section-head { font-size:.75rem; font-weight:800; text-transform:uppercase; letter-spacing:.08em; color:#888; margin:20px 0 10px; border-bottom:1px solid var(--border); padding-bottom:5px; }
+{% endblock %}
+
+{% block content %}
+<!-- Search bar -->
+<div class="search-hero">
+  <form method="get" action="/search" class="d-flex gap-2">
+    <input type="text" name="q" value="{{ q }}" placeholder="Search…" autofocus>
+    <button type="submit">Search</button>
+    <a href="/ask?q={{ q|urlencode }}" class="btn btn-outline-light btn-sm" style="white-space:nowrap">
+      💬 Ask Instead
+    </a>
+  </form>
+</div>
+
+{% if q %}
+<div style="font-size:.82rem;color:#888;margin-bottom:16px">
+  <strong>{{ total }}</strong> results for "<strong>{{ q }}</strong>"
+  &nbsp;|&nbsp;
+  <a href="/search?q={{ q|urlencode }}&type=knowledge">Intel ({{ results.knowledge|length }})</a>
+  &nbsp;·&nbsp;
+  <a href="/search?q={{ q|urlencode }}&type=meetings">Meetings ({{ results.meetings|length }})</a>
+  &nbsp;·&nbsp;
+  <a href="/search?q={{ q|urlencode }}&type=flags">Flags ({{ results.flags|length }})</a>
+</div>
+
+<!-- Knowledge base results -->
+{% if results.knowledge %}
+<div class="section-head">🧠 Intelligence ({{ results.knowledge|length }})</div>
+{% for r in results.knowledge %}
+<div class="result-card">
+  <div class="d-flex align-items-center gap-2 mb-1">
+    <span class="result-type type-knowledge">{{ r.sub_category.replace('_',' ') }}</span>
+    {% if r.flag_level != 'none' %}
+    <span class="flag-badge badge-{{ r.flag_level }}">{{ r.flag_level|upper }}</span>
+    {% endif %}
+  </div>
+  <div class="result-title">{{ r.subject }}</div>
+  <div class="result-meta">Gulf County Public Record</div>
+  {% if r.detail %}
+  <div class="result-excerpt">{{ r.detail[:280] }}{% if r.detail|length > 280 %}…{% endif %}</div>
+  {% endif %}
+  {% if r.flag_reason and r.flag_level != 'none' %}
+  <div style="margin-top:8px;font-size:.78rem;color:#92400e;background:#fffbeb;padding:6px 10px;border-radius:6px;border-left:3px solid #d97706">
+    ⚠️ <strong>Eagle Eye Flag:</strong> {{ r.flag_reason[:200] }}{% if r.flag_reason|length > 200 %}…{% endif %}
+  </div>
+  {% endif %}
+</div>
+{% endfor %}
+{% endif %}
+
+<!-- Meeting results -->
+{% if results.meetings %}
+<div class="section-head">📅 Meetings ({{ results.meetings|length }})</div>
+{% for m in results.meetings %}
+<div class="result-card">
+  <div class="d-flex align-items-center gap-2 mb-1">
+    <span class="result-type type-meeting">Meeting</span>
+    <span style="font-size:.72rem;color:#888">{{ m.meeting_date }}</span>
+  </div>
+  <div class="result-title">{{ m.title }}</div>
+  {% if m.minutes_text %}
+  {% set snip = excerpt_fn(m.minutes_text, q, 280) %}
+  {% if snip %}
+  <div class="result-excerpt">{{ snip|safe }}</div>
+  {% endif %}
+  {% endif %}
+  <div style="margin-top:8px">
+    <a href="/meeting/{{ m.id }}" style="font-size:.78rem;color:var(--teal)">View meeting minutes →</a>
+  </div>
+</div>
+{% endfor %}
+{% endif %}
+
+<!-- Legal flag results -->
+{% if results.flags %}
+<div class="section-head">⚖️ Legal Flags ({{ results.flags|length }})</div>
+{% for f in results.flags %}
+<div class="result-card flag-{{ f.severity }}">
+  <div class="d-flex align-items-center gap-2 mb-1">
+    <span class="flag-badge badge-{{ f.severity }}">{{ f.severity|upper }}</span>
+    {% if f.cite %}<span style="font-size:.75rem;color:var(--teal);font-weight:600">{{ f.cite }}</span>{% endif %}
+    <span style="font-size:.72rem;color:#888">{{ f.meeting_date }}</span>
+  </div>
+  <div class="result-title">{{ f.meeting_title }}</div>
+  <div style="font-size:.82rem;color:#555;margin-top:4px;line-height:1.6">{{ f.description[:250] }}{% if f.description|length > 250 %}…{% endif %}</div>
+  <div style="margin-top:8px">
+    <a href="/meeting/{{ f.meeting_id }}" style="font-size:.78rem;color:var(--teal)">View meeting →</a>
+  </div>
+</div>
+{% endfor %}
+{% endif %}
+
+{% if total == 0 %}
+<div class="text-center py-5 text-muted">
+  <div style="font-size:2.5rem">🔍</div>
+  <div style="margin-top:12px">No results found for "{{ q }}"</div>
+  <div style="font-size:.82rem;margin-top:8px">
+    Try <a href="/ask?q={{ q|urlencode }}">asking Eagle Eye instead</a> for AI-powered answers.
+  </div>
+</div>
+{% endif %}
+
+{% else %}
+<!-- No query yet -->
+<div class="text-center py-5 text-muted">
+  <div style="font-size:2.5rem">🔍</div>
+  <div style="margin-top:8px">Enter a name, keyword, or topic to search Gulf County public records.</div>
+  <div style="font-size:.82rem;margin-top:8px">
+    Or <a href="/ask">ask a question</a> in plain English.
+  </div>
+</div>
+{% endif %}
+{% endblock %}

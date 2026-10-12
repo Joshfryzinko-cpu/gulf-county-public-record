@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: gulf-county-public-record
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn public_app:app --bind 0.0.0.0:$PORT --workers 2 --timeout 120
+    envVars:
+      - key: DB_PATH
+        value: /data/bocc.db
+    disk:
+      name: eagle-eye-db
+      mountPath: /data
+      sizeGB: 1

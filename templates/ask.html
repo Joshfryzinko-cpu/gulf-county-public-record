@@ -1,0 +1,127 @@
+{% extends "public/base.html" %}
+{% block title %}Ask Eagle Eye{% endblock %}
+
+{% block extra_style %}
+.ask-hero {
+  background:linear-gradient(135deg,#0a0c1e 0%,#0d2b55 55%,#1a1a2e 100%);
+  border-radius:16px; padding:40px 36px 32px; margin-bottom:28px; text-align:center;
+}
+.ask-hero h1 { color:#ffd166; font-size:1.8rem; font-weight:900; margin-bottom:6px; }
+.ask-hero p  { color:rgba(255,255,255,.55); font-size:.9rem; margin-bottom:24px; }
+.ask-input-wrap { max-width:760px; margin:0 auto; position:relative; }
+.ask-input {
+  width:100%; padding:16px 120px 16px 20px;
+  border-radius:12px; border:2px solid rgba(255,209,102,.4);
+  background:rgba(255,255,255,.08); color:#fff;
+  font-size:.95rem; outline:none;
+}
+.ask-input:focus { border-color:#ffd166; }
+.ask-input::placeholder { color:rgba(255,255,255,.35); }
+.ask-submit {
+  position:absolute; right:8px; top:8px;
+  background:#ffd166; color:#0a0c1e; border:none;
+  border-radius:8px; padding:10px 18px; font-weight:700; cursor:pointer;
+}
+.ask-submit:hover { background:#ffe599; }
+.answer-box {
+  background:#fff; border-radius:12px; border:1px solid var(--border);
+  padding:24px; margin-bottom:20px;
+}
+.answer-box.flag-critical    { border-left:5px solid #dc3545; }
+.answer-box.flag-significant { border-left:5px solid #d97706; }
+.answer-box.flag-watch       { border-left:5px solid #3b82f6; }
+.answer-text { font-size:.92rem; line-height:1.8; color:#333; }
+.citation-chip {
+  display:inline-block; background:#f0f4ff; border:1px solid #c7d2fe;
+  border-radius:6px; padding:3px 10px; font-size:.72rem; color:#4338ca; margin:3px;
+}
+.example-btn {
+  background:#f8f9fa; border:1px solid var(--border); border-radius:8px;
+  padding:8px 14px; font-size:.8rem; cursor:pointer; text-align:left;
+  transition:background .15s; color:#333; width:100%;
+}
+.example-btn:hover { background:#e9ecef; }
+{% endblock %}
+
+{% block content %}
+<div class="ask-hero">
+  <h1>💬 Ask Eagle Eye</h1>
+  <p>Ask anything about Gulf County government in plain English.<br>
+     Eagle Eye searches 675 meetings, 65+ profiles, and the full public record to answer.</p>
+  <div class="ask-input-wrap">
+    <form method="get" action="/ask">
+      <input type="text" name="q" class="ask-input" id="ask-q"
+             value="{{ question }}"
+             placeholder="Who has conflicts of interest on the BOCC? What did Husband vote on? How much did the CDBG contract cost?"
+             autofocus>
+      <button type="submit" class="ask-submit">Ask ➜</button>
+    </form>
+  </div>
+</div>
+
+<!-- Examples if no answer yet -->
+{% if not answer %}
+<div class="row g-3 mb-4">
+  <div class="col-12"><div style="font-weight:700;color:var(--navy);margin-bottom:8px">Try asking:</div></div>
+  {% set examples = [
+    "Who has conflicts of interest on the BOCC?",
+    "Did Jack Husband recuse himself from SCE votes?",
+    "What is FS 112.3143?",
+    "Who is Matt Herring?",
+    "What are the legal flags in Gulf County?",
+    "Did the county properly bid the radio console purchase?",
+    "Who is Sherry Herring?",
+    "What happened with the CDBG-DR water transmission contract?",
+  ] %}
+  {% for ex in examples %}
+  <div class="col-md-6">
+    <button class="example-btn" onclick="document.getElementById('ask-q').value='{{ ex }}'; document.getElementById('ask-q').form.submit()">
+      ❓ {{ ex }}
+    </button>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
+
+<!-- Answer -->
+{% if answer %}
+<div class="answer-box flag-{{ answer.flag_level }}">
+  <div style="display:flex;align-items:center;gap:10px;margin-bottom:14px">
+    <div style="font-size:1.4rem">🦅</div>
+    <div>
+      <div style="font-weight:800;font-size:.95rem;color:var(--navy)">Eagle Eye Answer</div>
+      <div style="font-size:.72rem;color:#888">Based on Gulf County public records</div>
+    </div>
+    {% if answer.flag_level != 'none' %}
+    <span class="ms-auto badge badge-{{ answer.flag_level }}" style="color:#fff;padding:5px 10px">
+      {{ answer.flag_level|upper }} FLAG
+    </span>
+    {% endif %}
+  </div>
+  <div class="answer-text">{{ answer.answer|safe }}</div>
+  {% if answer.citations %}
+  <div style="margin-top:16px;border-top:1px solid var(--border);padding-top:12px">
+    <div style="font-size:.72rem;color:#888;font-weight:700;text-transform:uppercase;letter-spacing:.06em;margin-bottom:6px">Sources</div>
+    {% for c in answer.citations %}
+    <span class="citation-chip">📄 {{ c }}</span>
+    {% endfor %}
+  </div>
+  {% endif %}
+</div>
+
+<!-- Follow-up search -->
+<div class="bg-white rounded-3 p-3 border mb-3">
+  <div style="font-size:.8rem;color:#888;margin-bottom:8px;font-weight:600">🔍 Search for more detail</div>
+  <a href="/search?q={{ question|urlencode }}" class="btn btn-outline-primary btn-sm">
+    Search all records for "{{ question[:40] }}"
+  </a>
+  <a href="/" class="btn btn-outline-secondary btn-sm ms-2">Ask another question</a>
+</div>
+
+<!-- Disclaimer -->
+<div style="font-size:.72rem;color:#aaa;font-style:italic">
+  Eagle Eye answers are based on public records only. Not a legal opinion.
+  All information subject to verification. Heron Media Group, Mexico Beach, FL.
+</div>
+{% endif %}
+{% endblock %}
