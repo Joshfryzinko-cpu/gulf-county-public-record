@@ -1,0 +1,35 @@
+{% extends "public/base.html" %}
+{% block title %}Legal Flags — Gulf County{% endblock %}
+{% block content %}
+<h2 style="color:var(--navy);font-weight:800;margin-bottom:4px">⚖️ Eagle Eye Legal Flags</h2>
+<p style="color:#888;font-size:.85rem;margin-bottom:4px">Documented concerns in Gulf County public record — sourced from official meeting minutes.</p>
+<p style="font-size:.75rem;color:#aaa;font-style:italic;margin-bottom:20px">These flags represent fact patterns for journalistic investigation. Not legal conclusions or accusations.</p>
+{% set crits = flags|selectattr('severity','equalto','critical')|list %}
+{% set sigs  = flags|selectattr('severity','equalto','significant')|list %}
+{% set wtch  = flags|selectattr('severity','equalto','watch')|list %}
+<div class="d-flex gap-3 mb-4 flex-wrap">
+  <span class="badge badge-critical" style="color:#fff;padding:6px 14px;font-size:.8rem">🔴 Critical: {{ crits|length }}</span>
+  <span class="badge badge-significant" style="color:#fff;padding:6px 14px;font-size:.8rem">🟡 Significant: {{ sigs|length }}</span>
+  <span class="badge badge-watch" style="color:#fff;padding:6px 14px;font-size:.8rem">🔵 Watch: {{ wtch|length }}</span>
+</div>
+{% for f in flags %}
+<div class="bg-white rounded-3 border mb-3 p-4 flag-{{ f.severity }}" style="
+  border-left:5px solid {% if f.severity=='critical' %}#dc3545{% elif f.severity=='significant' %}#d97706{% else %}#3b82f6{% endif %}!important">
+  <div class="d-flex align-items-center gap-2 mb-2">
+    <span class="flag-badge badge-{{ f.severity }}" style="color:#fff">{{ f.severity|upper }}</span>
+    {% if f.cite %}<span style="font-size:.78rem;color:var(--teal);font-weight:600">{{ f.cite }}</span>{% endif %}
+    <span style="font-size:.72rem;color:#888">{{ f.meeting_date }}</span>
+  </div>
+  <div style="font-weight:700;font-size:.9rem;color:var(--navy);margin-bottom:6px">{{ f.meeting_title }}</div>
+  <div style="font-size:.82rem;color:#444;line-height:1.7">{{ f.description }}</div>
+  {% if f.analyst_note %}
+  <div style="margin-top:8px;font-size:.75rem;color:#888;border-top:1px solid var(--border);padding-top:8px">
+    <strong>Analysis:</strong> {{ f.analyst_note[:300] }}{% if f.analyst_note|length > 300 %}…{% endif %}
+  </div>
+  {% endif %}
+  <div style="margin-top:10px">
+    <a href="/meeting/{{ f.meeting_id }}" style="font-size:.78rem;color:var(--teal)">View full meeting →</a>
+  </div>
+</div>
+{% endfor %}
+{% endblock %}

@@ -3,7 +3,17 @@
 __pycache__/
 *.pyc
 .env
-data/
-*.pdf
-*.json
 *.log
+
+# Large / regeneratable scrape artifacts — run the scripts in scripts/ to rebuild.
+data/raw_minutes/
+data/minutes_text/
+data/bocc.db
+data/florida_law/raw_*.html
+
+# Keep the actual product data: official research profiles, cross-index
+# results, the clean statute/constitution text, and the meeting index.
+!data/officials/
+!data/officials/**
+!data/florida_law/*.txt
+!data/minutes_index.json

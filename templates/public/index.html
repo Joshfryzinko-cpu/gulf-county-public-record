@@ -1,0 +1,186 @@
+{% extends "public/base.html" %}
+{% block title %}Gulf County Public Record Search{% endblock %}
+
+{% block extra_style %}
+.hero {
+  background:linear-gradient(135deg,#0a0c1e 0%,#0d2b55 55%,#1a1a2e 100%);
+  border-radius:16px; padding:52px 36px 40px; margin-bottom:32px;
+  text-align:center; border:1px solid rgba(200,151,42,.25);
+}
+.hero-title { font-size:2.4rem; font-weight:900; color:#fff; margin-bottom:6px; line-height:1.15; }
+.hero-title span { color:#ffd166; }
+.hero-sub { color:rgba(255,255,255,.55); font-size:.95rem; margin-bottom:28px; }
+.search-wrap { max-width:720px; margin:0 auto 16px; position:relative; }
+.search-input {
+  width:100%; padding:18px 60px 18px 22px;
+  border-radius:12px; border:2px solid rgba(255,209,102,.4);
+  background:rgba(255,255,255,.08); color:#fff;
+  font-size:1.05rem; outline:none;
+  transition:border-color .2s;
+}
+.search-input:focus { border-color:#ffd166; background:rgba(255,255,255,.12); }
+.search-input::placeholder { color:rgba(255,255,255,.35); }
+.search-btn {
+  position:absolute; right:8px; top:8px;
+  background:#ffd166; color:#0a0c1e; border:none;
+  border-radius:8px; padding:10px 20px; font-weight:700; font-size:.9rem; cursor:pointer;
+}
+.search-btn:hover { background:#ffe599; }
+.mode-btns { display:flex; justify-content:center; gap:10px; margin-bottom:10px; }
+.mode-btn {
+  background:rgba(255,255,255,.1); color:rgba(255,255,255,.7);
+  border:1px solid rgba(255,255,255,.2); border-radius:20px;
+  padding:5px 16px; font-size:.78rem; cursor:pointer; text-decoration:none;
+  transition:all .15s;
+}
+.mode-btn:hover, .mode-btn.active { background:#ffd166; color:#0a0c1e; border-color:#ffd166; font-weight:700; }
+.stat-row { display:flex; gap:12px; justify-content:center; flex-wrap:wrap; margin-top:28px; }
+.stat-pill {
+  background:rgba(255,255,255,.08); border-radius:20px;
+  padding:6px 16px; font-size:.78rem; color:rgba(255,255,255,.7);
+}
+.stat-pill strong { color:#ffd166; }
+.autocomplete {
+  position:absolute; top:calc(100% + 4px); left:0; right:0; z-index:200;
+  background:#141628; border:1px solid rgba(255,209,102,.3);
+  border-radius:10px; overflow:hidden; box-shadow:0 8px 32px rgba(0,0,0,.5);
+  display:none;
+}
+.autocomplete.open { display:block; }
+.ac-item {
+  padding:10px 16px; cursor:pointer; color:#eee; font-size:.85rem;
+  display:flex; align-items:center; gap:8px;
+  border-bottom:1px solid rgba(255,255,255,.06);
+}
+.ac-item:hover { background:rgba(255,209,102,.1); }
+.ac-flag { font-size:.62rem; font-weight:700; padding:1px 6px; border-radius:8px; }
+.section-title { font-size:1rem; font-weight:800; color:var(--navy); margin-bottom:16px; border-bottom:2px solid var(--border); padding-bottom:8px; }
+.meeting-chip {
+  display:inline-block; background:#fff; border:1px solid var(--border);
+  border-radius:8px; padding:8px 14px; font-size:.8rem; margin:4px;
+  text-decoration:none; color:#333; transition:box-shadow .15s;
+}
+.meeting-chip:hover { box-shadow:0 2px 8px rgba(0,0,0,.1); color:var(--navy); }
+{% endblock %}
+
+{% block content %}
+<!-- HERO -->
+<div class="hero">
+  <div class="hero-title">Gulf County <span>Public Record</span></div>
+  <div class="hero-sub">Search 675 BOCC meetings · 65+ official profiles · Legal flags · Conflict findings<br>
+    Powered by Eagle Eye — Heron Media Group</div>
+
+  <!-- Mode toggle -->
+  <div class="mode-btns">
+    <a href="/search" class="mode-btn active" id="mode-search">🔍 Search Records</a>
+    <a href="/ask" class="mode-btn" id="mode-ask">💬 Ask Eagle Eye</a>
+  </div>
+
+  <!-- Search bar -->
+  <div class="search-wrap">
+    <form action="/search" method="get" autocomplete="off">
+      <input type="text" name="q" id="hero-q" class="search-input"
+             placeholder="Search commissioners, contracts, meetings, statutes…" autofocus>
+      <button type="submit" class="search-btn">Search</button>
+      <div class="autocomplete" id="hero-ac"></div>
+    </form>
+  </div>
+
+  <!-- Stats pills -->
+  <div class="stat-row">
+    <div class="stat-pill"><strong>{{ stats.meetings }}</strong> Meetings</div>
+    <div class="stat-pill"><strong>{{ stats.with_minutes }}</strong> With Full Minutes</div>
+    <div class="stat-pill"><strong>{{ stats.officials }}</strong> Officials Profiled</div>
+    <div class="stat-pill"><strong>{{ stats.flags }}</strong> Legal Flags</div>
+    <div class="stat-pill"><strong>{{ stats.flagged }}</strong> Conflict Alerts</div>
+  </div>
+</div>
+
+<!-- Quick access -->
+<div class="row g-3 mb-4">
+  <div class="col-md-3">
+    <a href="/commissioners" class="text-decoration-none">
+      <div class="bg-white rounded-3 p-3 border card-hover text-center">
+        <div style="font-size:2rem">👥</div>
+        <div style="font-weight:700;color:var(--navy)">Elected Officials</div>
+        <div style="font-size:.75rem;color:#888">Commissioners & officers</div>
+      </div>
+    </a>
+  </div>
+  <div class="col-md-3">
+    <a href="/meetings" class="text-decoration-none">
+      <div class="bg-white rounded-3 p-3 border card-hover text-center">
+        <div style="font-size:2rem">📋</div>
+        <div style="font-weight:700;color:var(--navy)">Meeting Minutes</div>
+        <div style="font-size:.75rem;color:#888">675 BOCC sessions</div>
+      </div>
+    </a>
+  </div>
+  <div class="col-md-3">
+    <a href="/flags" class="text-decoration-none">
+      <div class="bg-white rounded-3 p-3 border card-hover text-center">
+        <div style="font-size:2rem">⚖️</div>
+        <div style="font-weight:700;color:var(--navy)">Legal Flags</div>
+        <div style="font-size:.75rem;color:#888">Documented concerns</div>
+      </div>
+    </a>
+  </div>
+  <div class="col-md-3">
+    <a href="/ask" class="text-decoration-none">
+      <div class="bg-white rounded-3 p-3 border card-hover text-center">
+        <div style="font-size:2rem">💬</div>
+        <div style="font-weight:700;color:var(--navy)">Ask Eagle Eye</div>
+        <div style="font-size:.75rem;color:#888">AI-powered answers</div>
+      </div>
+    </a>
+  </div>
+</div>
+
+<!-- Recent meetings -->
+<div class="section-title">📅 Recent Meetings</div>
+<div class="mb-4">
+  {% for m in recent %}
+  <a href="/meeting/{{ m.id if m.id is defined else '#' }}" class="meeting-chip">
+    {{ m.meeting_date }} — {{ m.title[:50] }}
+  </a>
+  {% endfor %}
+</div>
+
+<!-- Disclaimer -->
+<div class="bg-white rounded-3 p-3 border" style="font-size:.75rem;color:#888;line-height:1.7">
+  <strong>About Eagle Eye:</strong> This site provides access to publicly available Gulf County government records.
+  All meeting minutes, official profiles, and legal flag information is sourced from official government documents
+  under Florida's Government-in-the-Sunshine Law (FS 286.011) and Public Records Law (FS 119).
+  Eagle Eye flags represent documented fact patterns for journalistic investigation — not legal conclusions or accusations.
+  Heron Media Group, Mexico Beach, FL.
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+const input = document.getElementById('hero-q');
+const ac    = document.getElementById('hero-ac');
+let timer;
+input.addEventListener('input', () => {
+  clearTimeout(timer);
+  const q = input.value.trim();
+  if (q.length < 2) { ac.classList.remove('open'); return; }
+  timer = setTimeout(() => {
+    fetch('/api/search?q=' + encodeURIComponent(q))
+      .then(r => r.json()).then(data => {
+        if (!data.length) { ac.classList.remove('open'); return; }
+        ac.innerHTML = data.map(d => {
+          const icon = d.type === 'person' ? '👤' : '📅';
+          const flag = d.flag && d.flag !== 'none'
+            ? `<span class="ac-flag badge-${d.flag}" style="color:#fff">${d.flag.toUpperCase()}</span>` : '';
+          return `<div class="ac-item" onclick="document.getElementById('hero-q').value='${d.label.replace(/'/g,"\\'")}';ac.classList.remove('open')">
+            ${icon} ${d.label} ${flag}
+          </div>`;
+        }).join('');
+        ac.classList.add('open');
+      });
+  }, 250);
+});
+document.addEventListener('click', e => { if (!ac.contains(e.target)) ac.classList.remove('open'); });
+</script>
+{% endblock %}

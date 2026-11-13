@@ -1,0 +1,12 @@
+{% extends "public/base.html" %}
+{% block title %}{{ meeting.title }}{% endblock %}
+{% block content %}
+<div class="mb-3"><a href="/meetings" style="color:#888;font-size:.82rem">← All Meetings</a></div>
+<h2 style="color:var(--navy);font-weight:800;margin-bottom:2px">{{ meeting.title }}</h2>
+<div style="color:#888;font-size:.82rem;margin-bottom:20px">{{ meeting.meeting_date }} · {{ meeting.meeting_type }}</div>
+{% if meeting.minutes_text %}
+<div class="bg-white rounded-3 border p-4" style="font-size:.85rem;line-height:1.8;white-space:pre-wrap;max-height:80vh;overflow-y:auto;color:#333">{{ meeting.minutes_text }}</div>
+{% else %}
+<div class="text-center text-muted py-5">Minutes not yet available for this meeting.</div>
+{% endif %}
+{% endblock %}

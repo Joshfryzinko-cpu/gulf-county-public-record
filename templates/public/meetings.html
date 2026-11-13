@@ -1,0 +1,28 @@
+{% extends "public/base.html" %}
+{% block title %}Meeting Minutes — Gulf County{% endblock %}
+{% block content %}
+<h2 style="color:var(--navy);font-weight:800;margin-bottom:4px">📋 BOCC Meeting Minutes</h2>
+<p style="color:#888;font-size:.85rem;margin-bottom:20px">{{ total }} meetings with searchable minutes · 2017–2026</p>
+<div class="mb-3">
+  <form method="get" action="/search" class="d-flex gap-2" style="max-width:500px">
+    <input type="text" name="q" class="form-control form-control-sm" placeholder="Search meeting content…">
+    <button class="btn btn-primary btn-sm">Search</button>
+  </form>
+</div>
+{% for m in meetings %}
+<div class="bg-white rounded-3 border p-3 mb-2 d-flex align-items-center gap-3">
+  <div style="min-width:90px;font-size:.78rem;color:#888;font-weight:600">{{ m.meeting_date }}</div>
+  <div style="flex:1">
+    <a href="/meeting/{{ m.id }}" style="font-weight:600;color:var(--navy);text-decoration:none;font-size:.9rem">{{ m.title }}</a>
+    <span class="badge bg-secondary ms-2" style="font-size:.6rem">{{ m.meeting_type }}</span>
+  </div>
+  <a href="/meeting/{{ m.id }}" style="font-size:.75rem;color:var(--teal);white-space:nowrap">View →</a>
+</div>
+{% endfor %}
+<!-- Pagination -->
+<div class="d-flex gap-2 mt-3 justify-content-center">
+  {% if page > 1 %}<a href="/meetings?page={{ page-1 }}" class="btn btn-outline-secondary btn-sm">← Previous</a>{% endif %}
+  <span class="btn btn-light btn-sm disabled">Page {{ page }} of {{ (total/per)|int + 1 }}</span>
+  {% if page * per < total %}<a href="/meetings?page={{ page+1 }}" class="btn btn-outline-secondary btn-sm">Next →</a>{% endif %}
+</div>
+{% endblock %}
