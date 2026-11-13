@@ -1,0 +1,601 @@
+MAY 24, 2022
+REGULAR MEETING
+PORT ST. JOE, FLORIDA
+The Gulf County Board of County Commissioners met this date in regular session with
+the following members present: Chairman Sandy Quinn, Jr., Vice Chairman Phil
+McCroan, and Commissioners David C. Rich, Ward McDaniel, and Patrick Farrell.
+Others present were: County Attorney Jeremy Novak, Clerk Rebecca L. Norris, Director
+of Finance & Management Director Leo Bebeau, Deputy Clerk Leanna Cooper, County
+Administrator Michael L. Hammond, County Assistant Administrator Clay Smallwood, III,
+Deputy Administrator Kari Summers, Building Official Brad Bailey, Gulf County E.D.C.
+Director Jim McKnight, Emergency Management Director/Fire Coordinator Matt Herring,
+Gulf County E.M.S. Director Jody Daniels, Grant Administrator Kaci Rhodes, Office of
+Management & Budget Director Sherry Herring, Mosquito Control Director Austin Horton,
+County Planner Lee Collinsworth, Staff Assistant–Planning Doug Crane, Public Works
+Director Mark Cothran, Assistant Public Works Director Raymond Hart, Sheriff Mike
+Harrison, and T.D.C. Executive Director Kelli Godwin.
+Sheriff Harrison called the meeting to order at 9:00 a.m., E.T.
+Chairman Quinn opened the meeting with prayer and led in the Pledge of Allegiance to
+the Flag.
+CONSENT AGENDA
+Chairman Quinn called for public comment regarding the Consent Agenda. There was no
+public comment. After discussion by Commissioner Farrell regarding page 22, Chairman
+Quinn called for a motion to accept the Consent Agenda as printed. Commissioner
+McDaniel so moved. Commissioner Farrell seconded the motion. Chairman Quinn called
+for public comment. There being none, the motion passed unanimously, as follows:
+1. Approval of Checks & Warrants for April 2022 which are incorporated herein by
+reference, pursuant to Chapter 136.06 F.S.
+2. Minutes – April 26, 2022 - Regular Meeting
+3. Agreement – GeoCom (E911 Maintenance)
+– Consolidated Communications (E911 Maintenance)
+4. Appointment – Gulf County Broadband Committee (Commissioner Designee
+Sandy Quinn, Jr.)
+
+5. Bid – #2021-27 * H.M.G.P. & C.D.B.G.-Disaster Recovery (Task Order #4 *
+Dewberry * Gulf County Indian Pass Road Drainage, Phase I
+* $303,650.00)
+6. Change Order – Roberts & Roberts, Inc. (#1 * Bid #2122-11 * Old Bay City
+Road, Phase IV * decrease in the amount of $501.40)
+7. Grant – Application (FL Department Economic Opportunity * Rebuild Florida
+C.D.B.G.-Mitigation General Infrastructure Program * Americus
+Ditch $5,460,000.00/Overstreet Drainage $2,625,000.00/South
+Dianna Street Bridge $4,725,000.00)
+– Application (FL Department of Environmental Protection * Resilient
+Florida Grant Program * Vulnerability Assessment of Wetappo
+Creek)
+– Extension (FL Department of Law Enforcement * Justice Assistance
+Grant/JAGC Program * Laptop Grant 2021 * 2021-JAGC-GULF-
+2-3B-074)
+– Agreement (FL Department of Management Services * E911 Maint-
+enance Grants * #22-04-15 $1,650.00 * #22-04-16 $29,747.99)
+– Supplemental Agreement (#1 * FL Department of Transportation * Small
+County Road Assistance Program/S.C.R.A.P. * Pine Street *
+#G2068 * Additional $68,406.00)
+8. Inventory – South Gulf Fire Department (Asset Donation South Gulf Fire
+Department * Asset #295-139 * 2022 Yamaha Sea Doo Jet Ski *
+Serial #US-YAMA1172C222 * Asset #295-140 * 2002 Triton Trailer
+* Serial #4TCSM1112MHL83123)
+– Gulf County T.D.C. (Asset Disposal * Asset #230-43 * Mac Book Pro
+Laptop * Serial #C1ML1DNMDTY4 * Asset #230-38 * Mac Book
+Pro Laptop * Serial #C1MKV7UGDTY4)
+9. Request for Funds – Gulf County Tax Collector (2020 Property Tax Refund *
+Parcel ID #01050-111R * $620.76)
+10. Resolution – Supporting the Florida Association of Counties’ Access 67
+Initiative (High-Speed Internet throughout Florida), as follows:
+RESOLUTION NO. 2022-10
+A RESOLUTION OF THE GULF COUNTY BOARD OF COUNTY
+COMMISSIONERS, SUPPORTING THE FLORIDA ASSOCIATION OF
+
+COUNTIES’ ACCESS 67 INITIATIVE FOR AFFORDABLE AND
+RELIABLE HIGH-SPEED INTERNET THROUGHOUT FLORIDA
+*Complete Resolution on file with Clerk*
+(End)
+– Budget Amendment (General Grants Fund), as follows:
+RESOLUTION NO. 2022-11
+WHEREAS, the Board of County Commissioners of Gulf County, Florida, has
+unanticipated revenues in the General Grants Fund; and
+WHEREAS, said revenues are necessary for approved expenditures in Fiscal Year
+2021-22;
+NOW, THEREFORE, BE IT RESOLVED, as follows:
+The 2021-22 Fiscal Year Budget is to be amended, as follows:
+General Grants Fund
+Original Increase Amended
+Budget (Decrease) Budget
+Revenues:
+11433100 331200 CESF Cvirus Emrg Supp Fd 0 4,379 4,379
+11433100 331200 VFA Vol Fire Assist Grant 0 28,453 28,453
+11433100 331390 NFWF NFWF NOAA Grant Prg 0 349,331 349,331
+11433200 332000 CLFRF Cvirus Local Fiscal Recov 0 536,010 536,010
+11433400 334390 BEACH DEP Bch Restor Grants 0 159,320 159,320
+11433400 334390 DEPIT DEP Innovative Tech Grant 0 55,355 55,355
+11433400 334490 PORT FDOT Seaport Grant Prg 0 50,022 50,022
+11433400 334490 SCOP Sm Co Outreach Prg 1,000,000 581,327 1,581,327
+11433400 334490 SCRAP Sm Co Rd Assist Prg 500,000 2,098,541 2,5 98,541
+11433400 334700 BOOKS State Aid to Lib Grt 39,785 8,167 47,952
+11433700 337300 NFWMD NWFWM Dist Grt 0 25,875 25,875
+11436600 366000 DUKE Duke Energy Found Grt 0 5,000 5,000
+Expenditures:
+11452100 591000 CESF SO Transfer Out CESF Grant 0 4,379 4,379
+11452200 552002 VFA Oper Supp-Tools & Sm Equip 0 12,053 12,053
+11452200 564000 VFA Machinery & Equip 0 16,400 16,400
+11453300 563000 NFWMD Infrastructure 0 25,875 25,875
+11453700 531000 BEACH Professional Services 0 159,320 159,320
+11453700 512000 DEPIT Regular Salaries & Wages 0 3,573 3,573
+11453700 514000 DEPIT Overtime 0 8,441 8,441
+11453700 521000 DEPIT FICA Taxes (SS Match) 0 716 716
+11453700 521001 DEPIT FICA Taxes (Medicare Match) 0 168 168
+11453700 522000 DEPIT Retirement Contributions 0 1,680 1,680
+11453700 523000 DEPIT Life & Health Insurance 0 693 693
+11453700 524000 DEPIT Workers' Comp 0 513 513
+
+11453700 534000 DEPIT Other Services 0 15,400 15,400
+11453700 543000 DEPIT Utility Service 0 7,725 7,725
+11453700 552001 DEPIT Oper Supp-Gas/Oil/Lub 0 16,446 16,446
+11453700 531000 NFWF Prof Services 0 349,331 349,331
+11454100 553000 CLFRF Rd Materials & Sup 0 20,362 20,362
+11454100 563000 CLFRF Infrastructure 0 456,701 456,701
+11454100 563000 SCOP Infrastructure 1,000,000 581,327 1,581,327
+11454100 563000 SCRAP Infrastructure 500,000 2,098,541 2,598,541
+11454300 531000 PORT Prof Services 0 50,022 50,022
+11455200 546001 DUKE Repair & Maint-Build/Grnd 0 5,000 5,000
+11457100 581000 BOOKS Aids to Gov Agenc 39,785 8,167 47,952
+11471200 546001 CLFRF Repair & Maint-Build/Grnd 0 58,947 58,947
+THIS RESOLUTION ADOPTED by the Gulf County Board of County
+Commissioners, this 24th day of May 2022.
+(End)
+– Authorizing Chairman to Enter into a Supplemental Agreement with FL
+Department of Transportation (Resurfacing of Pine Street), as
+follows:
+RESOLUTION NO. 2022-12
+A RESOLUTION OF THE GULF COUNTY BOARD OF COUNTY
+COMMISSIONERS AUTHORIZING THE CHAIRMAN OF THE BOARD TO
+ENTER INTO A SUPPLEMENTAL AGREEMENT WITH THE FLORIDA
+DEPARTMENT OF TRANSPORTATION
+*Complete Resolution on file with Clerk*
+(End)
+(End of Consent)
+GRANT APPLICATION – SMALL COUNTY SOLID WASTE
+Grant Administrator Rhodes presented a request, page 1 from County Administrator
+Hammond’s Update and Report Packet <copy provided to the Clerk for the record>, for
+Board approval to apply for a Small County Solid Waste Grant from FL D.E.P. Chairman
+Quinn called for a motion to move forward to apply. Commissioner McCroan so moved.
+Commissioner Rich seconded the motion. Chairman Quinn called for public comment.
+There being none, the motion passed unanimously.
+GRANT AGREEMENT – DEEPWATER HORIZON OPERATION & MAINTENANCE /
+SALINAS PARK
+Grant Administrator Rhodes submitted page 2 as a request for Board approval to accept
+and allow the Chairman to sign a FL D.E.P. grant agreement for Deepwater Horizon
+Operation and Maintenance at Salinas Park, up to ten (10) years or $172,400.00.
+Chairman Quinn called for a motion to move forward. Commissioner McCroan made the
+motion. Commissioner Farrell seconded the motion. Chairman Quinn called for public
+comment. There being none, the motion passed unanimously.
+
+STATUS REPORT – GULF COUNTY E.D.C.
+E.D.C. Director McKnight appeared before the Board to provide a status report regarding
+unemployment in Gulf County, the dialysis center with Fresenius, Skybourne, and the
+Port Authority. Upon inquiry by County Administrator Hammond, E.D.C. Director
+McKnight stated that Fresenius is in the process of hiring, but no opening date has been
+released.
+CONGRESSMAN NEAL DUNN
+County Administrator Hammond directed the Board to page 3 of his packet, stating
+Congressman Dunn will be at WindMark Beach starting at 6:30 p.m., E.T.
+JOINT WORKSHOP – CITY OF PORT ST. JOE / FIELD OF DREAMS
+County Administrator Hammond stated that the City of Port St. Joe sent a letter regarding
+a potential meeting on June 2, 2022 (page 4 in his packet), reporting that some
+Commissioners have a conflict with this date. After discussion, Chairman Quinn
+suggested County Administrator Hammond submit a letter to the City of Port St. Joe to
+encourage a joint application to obtain funding through Triumph for the Field of Dreams
+Project. Members of the Board discussed their support of a joint application through
+Triumph. County Administrator Hammond stated that he will send a letter to the City of
+Port St. Joe stating the Board cannot meet at this time, but the County would agree to a
+joint application for Triumph funds for the Field of Dreams Project.
+NO WAKE ZONE – WHITE CITY / HIGHLAND VIEW / OVERSTREET
+Upon request by Commissioner McDaniel, Assistant County Administrator Smallwood
+provided an update regarding the progress of a No Wake Zone for Highland View,
+Overstreet, and White City; reporting the County received the third/final permit from the
+Army Corps of Engineers and now can contact FWC and the Coast Guard. He reported
+County Attorney Novak is drafting a proposed ordinance and hopes to present it at the
+next regular Board meeting. County Attorney Novak discussed working with FWC
+regarding the draft and possible advertisement for the June meeting.
+WILDFLOWERS ON RIGHT-OF-WAY – PSJ GARDEN CLUB
+Commissioner Farrell discussed meeting with Nancy Jones regarding wildflowers on the
+U.S. Highway 71 bridge (in White City), reporting the library received a grant to purchase
+wildflowers, stakes, and signage. He stated the next meeting will be in June.
+HUMANE SOCIETY
+Commissioner Farrell discussed touring the Humane Society, stating that Public Works
+needs to help with their dusty driveway. He reported that the State changed the rules
+regarding cleaning kennels, and he anticipates a request for help is forthcoming.
+ROAD REPAIR – BALBOA STREET
+Commissioner Farrell thanked Public Works for road repair on Balboa Street, reporting
+there are more culvert issues in St. Joe Beach, but is looking to have roads paved soon
+and to redo the culverts at that time.
+
+TRAFFIC – DOC WHITFIELD ROAD
+Commissioner Farrell stated that the newly paved Doc Whitfield Road (County Road 387
+in Howard Creek) looks great, discussed his concerns regarding drivers speeding on this
+road. He stated that Public Works is working on installing golf cart designation signs.
+SOFTBALL FIELD – HIGHLAND VIEW
+Commissioner Farrell reported on the work completed at the softball field in Highland
+View.
+ROAD PAVING – OLD BAY CITY ROAD
+Commissioner Rich reported that the Old Bay City Road paving project has been
+completed.
+DEAD LAKES PARK CAMPGROUND
+Commissioner Rich also reported that Dead Lakes Park is open for business, stating that
+the contractor is working on Zone Area II.
+FISHING TOURNAMENT – GASKIN PARK
+Commissioner Rich stated that Eastern Shipbuilding hosted a fishing tournament at
+Gaskin Park last weekend and raised around $40,000.00 for the Children's Advocacy
+Group of Bay County.
+STATUS REPORT – MOSQUITO CONTROL
+Upon inquiry by Commissioner Rich, Mosquito Control Director Horton provided a status
+update regarding mosquito spraying in the north end of the County and the yellow fly
+insect.
+AMNESTY DAY – BCC WASTE SOLUTIONS
+Commissioner Rich stated that Amnesty Day is coming up this weekend, encouraging the
+public to clean up and dispose of things properly.
+BEACH EROSION – STUMPHOLE
+Commissioner McCroan discussed receiving calls from residents regarding the beach
+erosion past ‘The Rocks’ (Stumphole), stating the County is applying for all available
+funding regarding beach erosion. Following discussion, Assistant County Administrator
+Smallwood provided a timeline of the beach projects the County has undertaken
+beginning in 2008, reporting the County has put $36 million of sand on the beach the past
+14 years. He stated that in addition, the County has the F.E.M.A. Emergency Berm (Dune)
+project currently being constructed which is a $16 million project. Assistant County
+Administrator Smallwood reported that the County has an application in with F.E.M.A. for
+Hurricane Sally which is close to $3 million worth of sand and the County has applied for
+multiple NFWF (National Fish and Wildlife Foundation) applications for another $3 plus
+million for sand. He stated that at the last meeting the Board approved a $15.5 million
+D.E.P. project for the erosion control structures which is a $20 plus million project where
+some of the funds will come from RESTORE Act and NFWF and the County does have
+an active permit application with D.E.P. and Army Corps of Engineers.
+
+SAND PROJECT – BEACON HILL
+Upon inquiry by Commissioner McDaniel, Assistant County Administrator Smallwood
+stated that the contractors should mobilize this weekend around the County line (Gulf to
+Bay) and come toward Pine Street but will have to hop and skip due to turtle nesting.
+HUMANE SOCIETY
+Commissioner McCroan discussed the Humane Society needing additional help in the
+future.
+PROCLAMATION – RALPH MACOMBER
+Commissioner McCroan discussed Ralph Macomber’s 100th birthday celebration,
+requesting County Attorney Novak read a proposed proclamation for the Board to
+consider. County Attorney Novak then read the proposed proclamation aloud <copy
+provided to the Clerk for the record>. Commissioner McCroan so moved. Commissioner
+McDaniel seconded the motion. Chairman Quinn called for public comment. There being
+none, the motion passed unanimously.
+OPENING BID #2122-13 – GULF COUNTY WATER SYSTEM IMPROVEMENTS
+Clerk Norris announced to the Board the bidders for Bid #2122-13 for the Gulf County
+Water System Improvements, as follows: 1) L & K Contracting Comm, Inc.; 2) Marshall
+Brothers Construction & Engineering, Inc.; and 3) North Florida Construction, Inc.
+OPENING BID #2122-18 – CESSNA DRIVE
+Clerk Norris then announced the bidders for Bid #2122-18 for Cessna Drive, as follows:
+1) North Florida Construction, Inc.; 2) American Sand & Asphalt Paving; and 3) Pigott
+Asphalt & Sitework LLC.
+OPENING BID #2122-21 – WHITE CITY PARK PLAYGROUND EQUIPMENT
+Clerk Norris reported the final bid to be opened today is Bid #2122-21 for the White City
+Park Playground Equipment, as follows: 1) Playmore Recreational Products & Services;
+and 2) Bliss Products & Services. She stated she will begin opening these bids and the
+results will be announced later in the meeting. Chairman Quinn had no objection.
+FINAL PUBLIC HEARING – AMENDING COMPREHENSIVE PLAN ORDINANCES
+County Attorney Novak stated that all proposed ordinances have been publicly
+advertised. He then read the first proposed ordinance amending the Comprehensive Plan
+for a small-scale land use map amendment for Parcel ID #06076-004R. Chairman Quinn
+then opened to the public, calling for public comment. Francine Vellanti, of Cape San Blas
+appeared before the Board to voice her opposition to this proposed ordinance and the
+one upcoming that changes agriculture to other use of land. Chairman Quinn called for
+additional public comment. There being none, Chairman Quinn closed comment to the
+public. After discussion by Commissioner McCroan, County Administrator Hammond
+discussed Gulf County creating a Comprehensive Plan in the early 1990s and Gulf
+County’s density of units being the lowest in the State of Florida. He stated the Board has
+to balance private property rights against change and growth. Following discussion,
+Planner Collinsworth reported that Gulf County has the lowest (density), discussing
+
+stormwater and measures in place regarding growth. Commissioner McDaniel so moved
+to approve. Commissioner Farrell seconded the motion. Chairman Quinn called for public
+comment. There being none, the motion passed unanimously, as follows:
+ORDINANCE NO. 2022-04
+AN ORDINANCE AMENDING THE COMPREHENSIVE PLAN OF GULF
+COUNTY, FLORIDA BY AND THROUGH PROCEDURES REQUIRED
+FOR SMALL-SCALE LAND USE MAP AMENDMENT PURSUANT TO
+AUTHORITY UNDER FLORIDA STATUTE 163.3187 AND FLORIDA
+STATUTE 125; SPECIFICALLY AMENDING PARCEL ID #06076-004R –
+SECTION 13, TOWNSHIP 8 SOUTH, RANGE 11 WEST – STATE ROAD
+30A/U.S. HIGHWAY 98 – 6.18 ACRES, GULF COUNTY, FLORIDA FROM
+AGRICULTURE TO MIXED COMMERCIAL/RESIDENTIAL; PROVIDING
+AN EFFECTIVE DATE
+*Complete Ordinance on file with Clerk*
+(End)
+County Attorney Novak read a proposed ordinance by title amending the Comprehensive
+Plan for a small-scale land use map amendment for Parcel ID #03516-101R. Chairman
+Quinn opened to the public, calling for public comment. There being none, Chairman
+Quinn then closed the Public Hearing to the public. Commissioner McCroan so moved.
+Chairman Quinn announced the motion was to approve. Commissioner Rich seconded
+the motion. Chairman Quinn called for public comment. There being none, the motion
+passed unanimously, as follows:
+ORDINANCE NO. 2022-05
+AN ORDINANCE AMENDING THE COMPREHENSIVE PLAN OF GULF
+COUNTY, FLORIDA BY AND THROUGH PROCEDURES REQUIRED
+FOR SMALL-SCALE LAND USE MAP AMENDMENT PURSUANT TO
+AUTHORITY UNDER FLORIDA STATUTE 163.3187 AND FLORIDA
+STATUTE 125; SPECIFICALLY AMENDING PARCEL ID #03516-010R –
+SECTION 7, TOWNSHIP 6 SOUTH, RANGE 11 WEST – 3369 COUNTY
+ROAD 386 SOUTH – 0.87 ACRES, GULF COUNTY, FLORIDA FROM
+RESIDENTIAL TO MIXED COMMERCIAL/RESIDENTIAL; PROVIDING
+AN EFFECTIVE DATE
+*Complete Ordinance on file with Clerk*
+(End)
+County Attorney Novak then read a proposed ordinance by title amending the
+Comprehensive Plan for a small-scale land use map amendment for Parcel ID #02596-
+000R. Chairman Quinn opened to the public for comment. There being no public
+comment, Chairman Quinn closed to the public. He then called for a motion to adopt.
+
+Commissioner McDaniel so moved. Commissioner McCroan seconded the motion.
+Chairman Quinn called for public comment. There being none, the motion passed
+unanimously, as follows:
+ORDINANCE NO. 2022-06
+AN ORDINANCE AMENDING THE COMPREHENSIVE PLAN OF GULF
+COUNTY, FLORIDA BY AND THROUGH PROCEDURES REQUIRED
+FOR SMALL-SCALE LAND USE MAP AMENDMENT PURSUANT TO
+AUTHORITY UNDER FLORIDA STATUTE 163.3187 AND FLORIDA
+STATUTE 125; SPECIFICALLY AMENDING PARCEL ID #02596-000R –
+SECTION 36, TOWNSHIP 4 SOUTH, RANGE 10 WEST – 2620 HIGHWAY
+71 SOUTH – 1.35 ACRES, GULF COUNTY, FLORIDA FROM
+RESIDENTIAL TO MIXED COMMERCIAL/RESIDENTIAL; PROVIDING
+AN EFFECTIVE DATE
+*Complete Ordinance on file with Clerk*
+(End)
+County Attorney Novak read a proposed ordinance by title amending the Comprehensive
+Plan for a small-scale land use map amendment for Parcel ID #01102-000R for the Board
+to consider. Chairman Quinn opened the Public Hearing to the public, calling for public
+comment. There being none, Chairman Quinn closed comment to the public. Chairman
+Quinn called for a motion to approve. Commissioner Farrell so moved. Commissioner
+Rich seconded the motion. Chairman Quinn called for public comment. There being none,
+the motion passed unanimously, as follows:
+ORDINANCE NO. 2022-07
+AN ORDINANCE AMENDING THE COMPREHENSIVE PLAN OF GULF
+COUNTY, FLORIDA BY AND THROUGH PROCEDURES REQUIRED
+FOR SMALL-SCALE LAND USE MAP AMENDMENT PURSUANT TO
+AUTHORITY UNDER FLORIDA STATUTE 163.3187 AND FLORIDA
+STATUTE 125; SPECIFICALLY AMENDING PARCEL ID #01102-000R –
+SECTION 30, TOWNSHIP 6 SOUTH, RANGE 9 WEST – 10370 SOUTH
+HIGHWAY 71 – 5.70 ACRES, GULF COUNTY, FLORIDA FROM
+AGRICULTURE TO MIXED COMMERCIAL/RESIDENTIAL; PROVIDING
+AN EFFECTIVE DATE
+*Complete Ordinance on file with Clerk*
+(End)
+County Attorney Novak then read a proposed ordinance by title amending the
+Comprehensive Plan for a small-scale land use map amendment for Parcel ID #03515-
+010R for the Board to consider. Chairman Quinn opened the Public Hearing to the public,
+calling for public comment regarding this proposed ordinance. There being no public
+
+comment, Chairman Quinn closed the Public Hearing to comment from the public.
+Chairman Quinn then called for a motion to approve. Commissioner Rich so moved.
+Commissioner McDaniel seconded the motion. Chairman Quinn called for public
+comment. There being none, the motion passed unanimously, as follows:
+ORDINANCE NO. 2022-08
+AN ORDINANCE AMENDING THE COMPREHENSIVE PLAN OF GULF
+COUNTY, FLORIDA BY AND THROUGH PROCEDURES REQUIRED
+FOR SMALL-SCALE LAND USE MAP AMENDMENT PURSUANT TO
+AUTHORITY UNDER FLORIDA STATUTE 163.3187 AND FLORIDA
+STATUTE 125; SPECIFICALLY AMENDING PARCEL ID #03515-010R –
+SECTION 7, TOWNSHIP 6 SOUTH, RANGE 11 WEST – 3320 COUNTY
+ROAD 386 SOUTH – 2 ACRES, GULF COUNTY, FLORIDA FROM
+RESIDENTIAL TO MIXED COMMERCIAL/RESIDENTIAL; PROVIDING
+AN EFFECTIVE DATE
+*Complete Ordinance on file with Clerk*
+(End)
+County Attorney Novak read by title a proposed ordinance amending the Comprehensive
+Plan for a small-scale land use map amendment for Parcel ID #03072-050R. Chairman
+Quinn opened the Public Hearing to the public, calling for public comment. Francine
+Vellanti, of Cape San Blas appeared before the Board to discuss her concerns regarding
+the water run-off draining in the area of 30A. Discussion followed regarding the location
+and the stormwater pond installed on this property. Ms. Vellanit continued to discuss her
+concerns. Chairman Quinn called for additional public comment. There was no further
+public comment. Chairman Quinn called for a motion to approve. Commissioner Farrell
+so moved. Commissioner Rich seconded the motion. Chairman Quinn called for public
+comment. There being none, the motion passed unanimously, as follows:
+ORDINANCE NO. 2022-09
+AN ORDINANCE AMENDING THE COMPREHENSIVE PLAN OF GULF
+COUNTY, FLORIDA BY AND THROUGH PROCEDURES REQUIRED
+FOR SMALL-SCALE LAND USE MAP AMENDMENT PURSUANT TO
+AUTHORITY UNDER FLORIDA STATUTE 163.3187 AND FLORIDA
+STATUTE 125; SPECIFICALLY AMENDING PARCEL ID #03072-050R –
+SECTION 19, TOWNSHIP 8 SOUTH, RANGE 10 WEST – U.S. EAST
+HIGHWAY 98 – 5 ACRES, GULF COUNTY, FLORIDA FROM
+AGRICULTURE TO MIXED COMMERCIAL/RESIDENTIAL; PROVIDING
+AN EFFECTIVE DATE
+*Complete Ordinance on file with Clerk*
+(End)
+
+County Attorney Novak then read by title a proposed ordinance amending the
+Comprehensive Plan for a small-scale land use map amendment for Parcel ID #01545-
+046R. Chairman Quinn opened the Public Hearing for public comment. There being no
+public comment, Chairman Quinn closed the Public Hearing to the public. After discussion
+regarding location, Chairman Quinn called for a motion to adopt. Commissioner Farrell
+so moved. Commissioner McDaniel seconded the motion. Chairman Quinn called for
+public comment. There being no public comment, the motion passed unanimously, as
+follows:
+ORDINANCE NO. 2022-10
+AN ORDINANCE AMENDING THE COMPREHENSIVE PLAN OF GULF
+COUNTY, FLORIDA BY AND THROUGH PROCEDURES REQUIRED
+FOR SMALL-SCALE LAND USE MAP AMENDMENT PURSUANT TO
+AUTHORITY UNDER FLORIDA STATUTE 163.3187 AND FLORIDA
+STATUTE 125; SPECIFICALLY AMENDING PARCEL ID #01545-046R –
+SECTION 10, TOWNSHIP 4 SOUTH, RANGE 10 WEST – 187 MICHAEL
+STREET – 1.48 ACRES, GULF COUNTY, FLORIDA FROM
+RESIDENTIAL TO MIXED COMMERCIAL/RESIDENTIAL; PROVIDING
+FOR REPEALER, SEVERABILITY, MODIFICATIONS THAT MAY ARISE
+FROM CONSIDERATION AT PUBLIC HEARING; PROVIDING AN
+EFFECTIVE DATE
+*Complete Ordinance on file with Clerk*
+(End)
+County Attorney Novak read a proposed ordinance for the Board to consider that would
+amend the Comprehensive Plan for a small-scale land use map amendment for Parcel
+ID #01519-990R. Chairman Quinn opened the Public Hearing to the public, calling for
+public comment. There was no public comment. Chairman Quinn closed comment to the
+public, calling for a motion to adopt. Commissioner McDaniel so moved to adopt.
+Commissioner Farrell seconded the motion. Chairman Quinn called for public comment.
+There being no public comment, the motion passed unanimously, as follows:
+ORDINANCE NO. 2022-11
+AN ORDINANCE AMENDING THE COMPREHENSIVE PLAN OF GULF
+COUNTY, FLORIDA BY AND THROUGH PROCEDURES REQUIRED
+FOR SMALL-SCALE LAND USE MAP AMENDMENT PURSUANT TO
+AUTHORITY UNDER FLORIDA STATUTE 163.3187 AND FLORIDA
+STATUTE 125; SPECIFICALLY AMENDING PARCEL ID #01519-990R –
+SECTION 30, TOWNSHIP 6 SOUTH, RANGE 9 WEST – 10370 S. HWY.
+71 – 5.70 AC, GULF COUNTY, FLORIDA FROM AGRICULTURE TO
+MIXED COMMERCIAL/RESIDENTIAL; PROVIDING FOR REPEALER,
+SEVERABILITY, MODIFICATIONS THAT MAY ARISE FROM
+
+CONSIDERATION AT PUBLIC HEARING; PROVIDING FOR AN
+EFFECTIVE DATE
+*Complete Ordinance on file with Clerk*
+(End)
+FINAL PUBLIC HEARING – ESTABLISHING BUILDING PERMIT FEES ORDINANCE
+County Attorney Novak discussed the proposed ordinance being advertised for today’s
+Public Hearing, stating that Building Department Bailey provided each member of the
+Board with a copy for consideration <copy provided to the Clerk for the record>.
+Discussion followed regarding the proposed increase in permit fees. County Attorney
+Novak discussed the price change of Section 20 within the proposed ordinance.
+Chairman Quinn opened the Public Hearing, calling for public comment regarding this
+proposed ordinance. There being no public comment, Chairman Quinn closed the Public
+Hearing for public comment. Commissioner Farrell so moved to approve. Commissioner
+McCroan seconded the motion. Chairman Quinn called for public comment. County
+Attorney Novak then read the proposed ordinance by title. Upon inquiry by Chairman
+Quinn, Commissioner Farrell stated his motion still stands to approve. Commissioner
+McCroan stated his second still stands. Chairman Quinn called for public comment. There
+being none, the motion passed unanimously, as follows:
+ORDINANCE NO. 2022-12
+AN ORDINANCE ESTABLISHING FEES FOR RESIDENTIAL AND
+COMMERCIAL CONSTRUCTION PERMITS, INSPECTION FEES FOR
+CHECKING PLANS, MECHANICAL, ELECTRICAL, PLUMBING, SOLAR
+AND GAS SYSTEMS; PERMIT FEE FOR DRIVEWAY CULVERT;
+PERMIT FEE FOR MOVING BUILDING AND OTHER STRUCTURES;
+PERMIT FEE FOR ROOFING; PERMIT FEE FOR FLORIDA BUILDING
+CODE MODULAR HOMES; PERMIT FEE FOR HUD/DCA
+MANUFACTURED HOMES; ESTABLISHING A REINSPECTION FEE;
+PROVIDING PENALTIES FOR NOT FIRST OBTAINING PERMITS AND
+PAYING FEES; ESTABLISHING A REQUIREMENT THAT ALL
+HABITABLE STRUCTURES IN GULF COUNTY BE DESIGNED AND
+STAMPED BY A FLORIDA LICENSED ARCHITECT OR ENGINEER
+WITH ADVANCE BUILDING CODE COARSE; ADOPTION OF THE
+FLORIDA BUILDING CODE; ESTABLISHING ONE UNIFORM WIND
+ZONE FOR GULF COUNTY; PROVIDING A SEVERABILITY CLAUSE;
+PROVIDING A REPEALED CLAUSE; AND PROVIDING FOR AN
+EFFECTIVE DATE
+*Complete Ordinance on file with Clerk*
+(End)
+
+FINAL PUBLIC HEARING – AMENDING BEACH DRIVING PERMIT FEE
+ORDINANCE
+County Attorney Novak discussed the proposed ordinance and the advertisement.
+After discussion by members of the Board, County Attorney Novak read the
+proposed ordinance amending the beach driving permit fee by title for the Board
+to consider. Chairman Quinn opened the Public Hearing, calling for public
+comment. There was no public comment. Commissioner McDaniel so moved to
+adopt. Commissioner McCroan seconded the motion. Chairman Quinn called for
+public comment. There being none, the motion passed unanimously, as follows:
+ORDINANCE NO. 2022-13
+AN ORDINANCE OF GULF COUNTY, FLORIDA; WHEREBY
+REPEALING AND REPLACING GULF COUNTY ORDINANCE NO. 2015-
+08 THERETO TITLED “ALLOWING FOR VEHICULAR TRAFFIC ON
+CERTAIN COASTAL BEACHES WITHIN GULF COUNTY, FLORIDA” OR
+COMMONLY REFERRED TO AS THE “BEACH DRIVING ORDINANCE”;
+REPEALING THE ORDINANCE IN ITS ENTIRETY AND REPLACING
+ALL PRIOR AMENDMENTS AND REGULATIONS REQUIREMENTS TO
+OBTAIN THE SAME; PROVIDING FOR AMENDED PERMIT FEES AND
+ADMINISTRATIVE AUTHORITY FOR ESTABLISHING FUTURE PERMIT
+RATES; ESTABLISHING A SYSTEM FOR MONITORING THE
+ISSUANCE OF DECALS; ESTABLISHING THE FORMAT FOR DECALS;
+LIMITING AND DESIGNATING BEACH ACCESS POINTS; PROVIDING
+FOR A SPEED LIMIT; PROVIDING FOR RULES FOR OPERATION OF
+VEHICLES ON THE BEACHES; PROVIDING FOR PENALTY FOR
+VIOLATION; PROVIDING FOR REPEALER, SEVERABILITY,
+MODIFICATIONS THAT MAY ARISE FROM CONSIDERATION AT
+PUBLIC HEARING; PROVIDING FOR AN EFFECTIVE DATE
+*Complete Ordinance on file with Clerk*
+(End)
+QUASI-JUDICIAL HEARING – REVIEW & CONSIDERATION OF P.D.R.B.
+PRELIMINARY PLAT – WHITE SANDS INVESTMENT PARTNERS, LLC
+Planner Collinsworth presented a preliminary plat approval (Serenoa Subdivision) from
+White Sands Investment Partners, LLC * Parcel ID #06288-033R, #06288-035R and
+#06288-040R for the Board to consider. Chairman Quinn called for anyone wishing to
+speak on this matter to please step forward. Lance Watson, of Southeastern Consulting
+Engineers, Inc. appeared on behalf of the applicant. Upon inquiry by Chairman Quinn
+regarding objections to waiving the Quasi-Judicial Hearing, Mr. Watson had no objection.
+Chairman Quinn then called for a motion to waive Quasi-Judicial. Commissioner Farrell
+so moved. Commissioner McDaniel seconded the motion. Chairman Quinn called for
+public comment. There being none, the motion passed unanimously. Mr. Watson then
+discussed the preliminary plat consisting of a 22-lot subdivision and the density.
+Commissioner McCroan stated the property owner is placing less than half of the units
+
+allowed for this property. Mr. Watson confirmed Commissioner McCroan’s statement.
+Upon inquiry by Chairman Quinn, Planner Collinsworth reported that the P.D.R.B.
+recommended by a 3-0 vote to approve the preliminary plat. Chairman Quinn called for a
+motion to waive the formal reading. Commissioner McCroan made the motion to waive.
+Commissioner Farrell seconded the motion. Chairman Quinn called for public comment.
+There being none, the motion passed unanimously. Commissioner McDaniel so moved
+to approve. Commissioner Rich seconded the motion. Chairman Quinn called for public
+comment. There being no public comment, the motion passed unanimously.
+VARIANCE – ROY VAN WYK
+Planner Collinsworth presented a variance request from Roy Van Wyk * Parcel ID
+#06140-000R, reporting the Maintenance Agreement has been recorded in the Official
+Records which is one of the stipulations. He stated that P.D.R.B. recommended by a 3-0
+vote to approve this variance. Chairman Quinn called for anyone wishing to speak on this
+matter to step forward. No one from the audience stepped forward. Commissioner
+McCroan motioned to waive Quasi-Judicial Hearing. Commissioner Farrell seconded the
+motion. Chairman Quinn called for public comment. There being none, the motion passed
+unanimously. Chairman Quinn called for a motion to waive the formal reading.
+Commissioner Farrell so moved. Commissioner McCroan seconded the motion.
+Chairman Quinn called for public comment. There being no public comment, the motion
+passed unanimously. Discussion followed regarding the lot next to this parcel and the
+agreement with the adjacent property owner. Commissioner McCroan motioned to
+approve. Commissioner Rich seconded the motion. Chairman Quinn called for public
+comment. There being none, the motion passed unanimously.
+OPIATE USE DISORDER
+Justin Perse, of PanCare appeared before the Board to raise awareness of an opioid use
+disorder program under PanCare called “Starting Point”, <Commissioner McCroan left
+the meeting at 10:07 a.m., E.T.> reporting that this program started in January, and is
+available in Gulf County <Commissioner McCroan returned to the meeting at 10:08 a.m.,
+E.T.>.
+BID #2122-13 – GULF COUNTY WATER SYSTEM IMPROVEMENTS
+Grant Administrator Rhodes read aloud the perspective bidders for Bid #2122-13 for the
+Gulf County Water System Improvements, as follows: 1) L & K Contracting Com, Inc.
+$1,169,100.00; 2) Marshall Brothers Construction & Engineering, Inc. $1,069,200.00; and
+3) North Florida Construction, Inc. $1,344,000.00.
+BID #2122-18 – CESSNA DRIVE
+Grant Administrator Rhodes read aloud the sealed bids for Bid #2122-18 for Cessna
+Drive, as follows: 1) North Florida Construction, Inc. $1,562,947.00; 2) American Sand &
+Asphalt Paving $1,595,998.00; and 3) Pigott Asphalt & Sitework, LLC $2,084,579.00.
+
+BID #2122-21 – WHITE CITY PARK PLAYGROUND EQUIPMENT
+Grant Administrator Rhodes then read aloud the perspective bidders for Bid #2122-21 for
+the White City Park Playground Equipment, as follows: 1) Playmore Recreational
+Products & Services $48,135.25; and 2) Bliss Products & Services $59,646.00.
+TABLE BID #2122-18 – CESSNA DRIVE
+Upon recommendation by County Administrator Hammond, Commissioner Farrell so
+moved to table Bid #2122-18 for Cessna Drive. Commissioner McCroan seconded the
+motion. Chairman Quinn called for public comment. There being no public comment, the
+motion passed unanimously.
+TABLE BID #2122-13 – GULF COUNTY WATER SYSTEM IMPROVEMENTS
+County Administrator Hammond recommended to table Bid #2122-13 for the Gulf County
+Water System Improvements. Commissioner McDaniel so moved to table. Commissioner
+Farrell seconded the motion. Chairman Quinn called for public comment. There being
+none, the motion passed unanimously.
+BID #2122-21 – WHITE CITY PARK PLAYGROUND EQUIPMENT
+County Administrator Hammond stated that he will need a recess at the end of the
+meeting to speak to Commissioner Farrell regarding Bid #2122-21 for the White City Park
+Playground Equipment.
+DENSITY AND ZONING – EAST 30A
+Francine Vellanti, of Cape San Blas appeared before the Board to request that the Board
+consider approving the eight (8) items presented at the last regular Board meeting,
+providing a letter to the Board for review <copy provided to the Clerk for the record>. She
+discussed the area in East 30A to keep preserved and stop the water erosion. Ms. Vellanit
+asked for more time to speak and inquired if the Board approved any of her requests from
+the last meeting. Chairman Quinn called for a motion to extend Ms. Vellanti’s time. No
+motion was placed on the floor.
+FIELD OF DREAMS
+Randy Pridgeon, of St. Joe Beach appeared before the Board to discuss the proposed
+Field of Dreams, inquiring if the County has a handicap accessible field for participation.
+He discussed building a park where handicap children could participate in the ball games
+and could use during the summertime for camps. Chairman Quinn discussed the
+proposed renovation at 10th Street Park had a handicap accessible track. Chairman Quinn
+directed County Administrator Hammond to included that into the County’s information.
+The meeting recessed at 10:20 a.m., E.T.
+The meeting did then reconvene at 10:27 a.m., E.T.
+
+AWARDED BID #2122-21 – WHITE CITY PARK PLAYGROUND EQUIPMENT
+Upon recommendation by County Administrator Hammond, Commissioner Farrell
+motioned to award Bid #2122-21 for the White City Park Playground Equipment to
+Playmore Recreational Products & Services in the amount of $48,135.25. Commissioner
+McDaniel seconded the motion. Chairman Quinn called for public comment. There being
+none, the motion passed unanimously.
+There being no further business, and upon motion by Commissioner Farrell, seconded by
+Commissioner McCroan, and unanimous vote, the meeting did adjourn at 10:28 a.m.,
+E.T.
+SANDY QUINN, JR.
+CHAIRMAN
+ATTEST:
+REBECCA L. NORRIS
+CLERK OF COURT

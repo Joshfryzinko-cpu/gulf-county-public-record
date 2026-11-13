@@ -1,0 +1,1315 @@
+NOVEMBER 23, 2021
+REGULAR MEETING
+PORT ST. JOE, FLORIDA
+The Gulf County Board of County Commissioner met this date in regular session with the
+following members present: Chairman Sandy Quinn, Jr., Vice Chairman Phil McCroan,
+and Commissioners David C. Rich, Ward McDaniel, and Patrick Ferrell.
+Others present were: County Attorney Jeremy Novak, Deputy Clerk Leanna Roberts,
+County Administrator Michael L. Hammond, County Assistant Administrator Clay
+Smallwood, III, Deputy Administrator Kari Summers, Building Official Brad Bailey, Gulf
+County E.D.C. Director Jim McKnight, Emergency Management Director/Fire
+Coordinator Matt Herring, Gulf County E.M.S. Director Jody Daniels, Grant Administrator
+Kaci Rhodes, Grant Administrator Maegen Conners, Office of Management & Budget
+Director Sherry Herring, Mosquito Control Director Austin Horton, Staff Assistant Planning
+Grant Glass, Public Works Director Mark Cothran, Assistant Public Works Director
+Raymond Hart, Sheriff Mike Harrison, and T.D.C. Executive Director Kelli Godwin.
+Sheriff Harrison called the meeting to order at 9:00 a.m., E.T.
+Chairman Quinn opened the meeting with prayer and led in the Pledge of Allegiance to
+the Flag.
+CONSENT AGENDA
+Chairman Quinn called for public comment regarding the Consent Agenda. There being
+none, Chairman Quinn then called for a motion to accept the Consent Agenda as printed.
+Commissioner Farrell so moved. Commissioner Rich second the motion. Chairman Quinn
+called for public comment. There was none and the motion passed unanimously, as
+follows:
+1. Approval of Checks & Warrants for October 2021 which are incorporated herein
+by reference, pursuant to Chapter 136.06 F.S.
+2. Minutes – September 27, 2021 – Final Budget Hearing
+3. Agreement – FL Department of Corrections (Inmate Transportation * A5037)
+– FL Department of Transportation (Supplemental #2 * Eastern Shipbuilding
+Port Project * GOT15)
+4. Appointment – Planning Development Review Board (Jimmy Rogers * Replacing
+Douglas Birmingham)
+
+5. Budget Amendment #10 – Public Works Fund (Amend the FY2020-21 Budget for
+Public Works Fund for Line Item Adjustments for Approved
+Expenditures), as follows:
+Budget Amendment #10
+Amend the FY2020-21 Budget for Public Works Fund for line item adjustments for
+approved expenditures.
+Public Works Fund
+Current Increase Amended
+Budget (Decrease) Budget
+Expenditures:
+PW Finance & Admin:
+10451300 512000 Regular Salaries & Wages 335,815 3,980 339,795
+10451300 514000 Overtime 0 369 369
+10451300 522000 Retirement Contributions 66,135 1,909 68,044
+10451300 531000 Professional Services 200 172 372
+10451300 549000 Otr Current Charges & Obliga 1,700 68 1,768
+10451300 552000 Operating Supplies 4,700 943 5,643
+10451300 552002 Oper Supp-Tools & Sm Equip 100 3,449 3,549
+10451300 554000 Books, Pub, Subs & Mbrshp 200 503 703
+10451300 562000 BLDG Buildings 18,320 (11,393) 6,927
+PW Facilities Maint:
+10451900 544000 Rentals & Leases 900 36 936
+10451900 546002 Repair & Maint-Equip 15,000 (2,071) 12,929
+10451900 552002 Oper Supp-Tools & Sm Equip 3,400 2,035 5,435
+PW Fleet Maint:
+10451901 512000 Regular Salaries & Wages 199,345 (50,000) 149,345
+10451901 512001 Sal-Term Pay Annual Leave 1,095 2,189 3,284
+10451901 544000 Rentals & Leases 3,700 410 4,110
+10451901 546002 Repair & Maint- Equip 65,000 50,450 115,450
+10451901 546003 Repair & Maint- Parts 60,000 (8,991) 51,009
+10451901 549000 Other Currt Chrgs & Obliga 100 131 231
+10451901 552000 Operating Supplies 8,150 4,257 12,407
+10451901 552002 Oper Supp-Tools & Sm Equip 7,000 1,554 8,554
+PW Detention & Correction:
+10452300 512000 Regular Salaries & Wages 333,625 (4,294) 329,331
+10452300 512001 Sal-Term Pay Annual Leave 1,740 3,592 5,332
+10452300 514000 Overtime 0 364 364
+10452300 544000 Rentals & Leases 1,300 338 1,638
+PW Solid Waste:
+10453400 531000 Professional Services 93,000 40,606 133,606
+10453400 534000 Other Services 100 (100) 0
+10453400 541000 Communications Services 100 1,458 1,558
+10453400 546001 Repair & Maint-Build & Grnd 3,500 (3,500) 0
+10453400 546002 Repair & Maint-Equipment 350 (350) 0
+10453400 549000 Other Currt Chrgs & Obliga 170 355 525
+10453400 549001 Other Non-Promo Ad 150 (150) 0
+10453400 551000 Office Supplies 100 (100) 0
+10453400 552000 Operating Supplies 11,500 (10,493) 1,007
+
+10453400 552001 Oper Supp-Gas, Oil, & Lub 500 (471) 29
+10453400 553000 Road Materials & Supplies 500 (500) 0
+PW Stormwater:
+10453800 512000 Regular Salaries & Wages 17,760 (993) 16,767
+10453800 512001 Sal-Term Pay Annual Leave 190 (190) 0
+10453800 521000 FICA Taxes (SS Match) 1,115 (180) 935
+10453800 521001 FICA Taxes (Medicare Match) 265 (46) 219
+10453800 522000 Retirement Contributions 1,795 (118) 1,677
+10453800 523000 Life & Health Insurance 5,795 11 5,806
+10453800 531000 Professional Services 0 85,352 85,352
+PW Road & Street:
+10454100 512000 Regular Salaries & Wages 580,260 (110,591) 469,669
+10454100 531000 Professional Services 120,800 (43,065) 77,735
+10454100 534000 Other Services 73,380 32,968 106,348
+10454100 541000 Communications Services 100 60 160
+10454100 544000 Rentals & Leases 7,400 602 8,002
+10454100 549000 Other Crrnt Chrg & Obliga 250 251 501
+10454100 552000 Operating Supplies 12,000 6,319 18,319
+10454100 552002 Oper Supp-Tools & Sm Equip 2,000 2,742 4,742
+10454100 554000 Books, Pub, Subs & Mbshp 0 123 123
+PW Mosquito Control:
+10456200 512000 Regular Salaries & Wages 160,040 (2,475) 157,565
+10456200 513000 Other Salaries & Wages 0 2,475 2,475
+PW Courthouse Facilities:
+10471200 534000 Other Services 54,325 (6,754) 47,571
+10471200 543000 Utility Service 8,000 3,500 11,500
+10471200 546002 Repair & Maint-Equipment 9,000 2,782 11,782
+10471200 552001 Oper Supp- Gas, Oil, & Lub 0 472 472
+This Budget Amendment duly approved and adopted by the Gulf County Board of
+County Commissioners at their regular meeting on the 23rd day of November 2021.
+(End)
+#11 – St. Joseph Fire Control District Fund (Amend the FY2020-21 Budget
+for St. Joseph Fire Control District Fund for Line Item Adjustments
+for Approved Expenditures), as follows:
+Budget Amendment #11
+Amend the FY2020-21 Budget for St. Joseph Fire Control District Fund for line item
+adjustments for approved expenditures.
+St. Joseph Fire Control District Fund
+Current Increase Amended
+Budget (Decrease) Budget
+Expenditures:
+St. Joseph Fire Control District
+10652200 546002 Repair & Maint- Equip 0 11,390 11,390
+10652200 564000 Machinery & Equip 158,255 (11,390) 146,865
+
+Beaches Fire Dept:
+10652201 541000 Comm Services 4,000 1,679 5,679
+10652201 543000 Utility Service 7,000 1,358 8,358
+10652201 546002 Repair & Maint-Equip 25,000 9,229 34,229
+10652201 549001 Other Non-Promo Ad 0 217 217
+10652201 552000 Operating Supplies 25,000 (13,000) 12,000
+10652201 552002 Oper Supp-Tools & Sm Equip 5,000 3,797 8,797
+10652201 555000 Training 5,000 (3,280) 1,720
+Highland View Fire Dept:
+10652202 524000 Workers' Comp 840 2 842
+10652202 534000 Other Services 500 70 570
+10652202 543000 Utility Service 5,000 756 5,756
+10652202 544000 Rentals & Leases 0 89 89
+10652202 546001 Repair & Maint-Build & Grnd 5,000 (2,601) 2,399
+10652202 546002 Repair & Maint-Equip 6,000 1,684 7,684
+White City Fire Dept:
+10652203 543000 Utility Service 5,000 1,290 6,290
+10652203 552000 Operating Supplies 5,000 (1,290) 3,710
+South Gulf Co Fire Dept:
+10652204 534000 Other Services 0 350 350
+10652204 543000 Utility Service 10,000 (1,978) 8,022
+10652204 554000 Books, Pub, Subs & Mbshp 300 1,628 1,928
+This Budget Amendment duly approved and adopted by the Gulf County Board of
+County Commissioners at their regular meeting on the 23rd day of November 2021.
+(End)
+#12 – Tupelo Fire Control District Fund (Amend the FY2020-21 Budget for
+Tupelo Fire Control District Fund for Line Item Adjustments for
+Approved Expenditures), as follows:
+Budget Amendment #12
+Amend the FY2020-21 Budget for Tupelo Fire Control District Fund for line item
+adjustments for approved expenditures.
+Tupelo Fire Control District Fund
+Current Increase Amended
+Budget (Decrease) Budget
+Expenditures:
+Stone Mill Creek Fire Dept:
+10752201 524000 Workers' Comp 780 (50) 730
+10752201 531000 Professional Services 1,300 (1,188) 112
+10752201 534000 Other Services 0 481 481
+10752201 540000 Travel & Per Diem 500 (500) 0
+10752201 541000 Comm Services 3,000 (500) 2,500
+10752201 543000 Utility Service 1,600 527 2,127
+10752201 544000 Rentals & Leases 300 (300) 0
+10752201 546001 Repair & Maint-Build & Grnd 1,000 (722) 278
+10752201 546002 Repair & Maint-Equip 5,000 6,375 11,375
+
+10752201 549000 Other Curt Charges & Obliga 0 86 86
+10752201 549001 Other Non-Promo Ad 500 (500) 0
+10752201 551000 Office Supplies 250 (250) 0
+10752201 552000 Operating Supplies 2,000 2,210 4,210
+10752201 552001 Oper Supp-Gas, Oil, & Lub 1,000 (360) 640
+10752201 552002 Oper Supp-Tools & Sm Equip 5,000 (2,586) 2,414
+10752201 555000 Training 1,500 (1,500) 0
+10752201 564000 Machinery & Equip 9,002 (1,223) 7,779
+Wetappo Fire Dept:
+10752202 543000 Utility Service 1,200 7 1,207
+10752202 546001 Repair & Maint-Build & Grnd 500 856 1,356
+10752202 546002 Repair & Maint-Equip 2,000 3,926 5,926
+10752202 552002 Oper Supp-Tools & Sm Equip 1,000 (1,000) 0
+10752202 564000 Machinery & Equip 10,006 (3,789) 6,217
+Dalkeith Fire Dept:
+10752203 524000 Workers' Comp 360 370 730
+10752203 531000 Professional Services 210 768 978
+10752203 549000 Other Current Chrg & Obliga 50 91 141
+10752203 562000 Buildings 0 854 854
+10752203 563000 Infrastructure 0 7,250 7,250
+10752203 564000 Machinery & Equip 104,462 (9,333) 95,129
+This Budget Amendment duly approved and adopted by the Gulf County Board of
+County Commissioners at their regular meeting on the 23rd day of November 2021.
+(End)
+#13 – EMS Grant Fund (Amend the FY2020-21 Budget for EMS Grant Fund
+for Line Item Adjustments for Approved Expenditures), as follows:
+Budget Amendment #13
+Amend the FY2020-21 Budget for EMS Grant Fund for line item adjustments for approved
+expenditures.
+EMS Grant Fund
+Current Increase Amended
+Budget (Decrease) Budget
+Expenditures:
+11152600 512000 PRF Reg Salaries & Wages 0 2,381 2,381
+11152600 513000 PRF Other Salaries & Wages 0 778 778
+11152600 514000 PRF Overtime 0 771 771
+11152600 521000 PRF FICA Taxes (SS Match) 0 240 240
+11152600 521001 PRF FICA Taxes (Medicare Match) 0 56 56
+11152600 522000 PRF Retirement Contributions 0 743 743
+11152600 549000 PRF Othr Crt Charges & Obliga 4,969 (4,969) 0
+This Budget Amendment duly approved and adopted by the Gulf County Board of
+County Commissioners at their regular meeting on the 23rd day of November 2021.
+(End)
+
+#14 – Beach Restoration Project Fund (Amend the FY2020-21 Budget for
+Beach Restoration Project Fund for Line Item Adjustments for
+Approved Expenditures), as follows:
+Budget Amendment #14
+Amend the FY2020-21 Budget for Beach Restoration Project Fund for line item
+adjustments for approved expenditures.
+Beach Restoration Project Fund
+Current Increase Amended
+Budget (Decrease) Budget
+Expenditures:
+12153700 531000 CBA Professional Services 864,300 (648,100) 216,200
+Reserves & Transfers-Out:
+12158100 591000 CBA CBA Inter-Fund Trsfr Out 0 648,100 648,100
+This Budget Amendment duly approved and adopted by the Gulf County Board of
+County Commissioners at their regular meeting on the 23rd day of November 2021.
+(End)
+#15 – E911 Fund (Amend the FY2020-21 Budget for E911 Fund for Line
+Item Adjustments for Approved Expenditures), as follows:
+Budget Amendment #15
+Amend the FY2020-21 Budget for E911 Fund for line item adjustments for approved
+expenditures.
+E911 Fund
+Current Increase Amended
+Budget (Decrease) Budget
+Expenditures:
+12652500 512000 Regular Salaries & Wages 67,550 319 67,869
+12652500 522000 Retirement Contributions 6,750 188 6,938
+12652500 534000 Other Services 40,190 (3,933) 36,257
+12652500 540000 Travel & Per Diem 0 2,669 2,669
+12652500 552002 Oper Supp-Tools & Sm Equip 0 688 688
+12652500 555000 Training 850 69 919
+This Budget Amendment duly approved and adopted by the Gulf County Board of
+County Commissioners at their regular meeting on the 23rd day of November 2021.
+(End)
+
+#16 – TDC Fund (Amend the FY2020-21 Budget for TDC Fund for Line
+Item Adjustments for Approved Expenditures), as follows:
+Budget Amendment #16
+Amend the FY2020-21 Budget for TDC Fund for line item adjustments for approved
+expenditures.
+TDC Fund
+Current Increase Amended
+Budget (Decrease) Budget
+Expenditures:
+TDC Beach Restoration:
+12853700 546001 Repair & Maint-Build & Grnd 0 115 115
+12853700 552000 Operating Supplies 0 245 245
+12853700 563000 Infrastructure 38,000 (360) 37,640
+TDC Promotional:
+12855200 512000 Reg Salaries & Wages 299,445 7,030 306,475
+12855200 512001 Sal-Term Pay Annual Leave 0 45 45
+12855200 522000 Retirement Contributions 32,325 1,900 34,225
+12855200 523000 Life & Health Ins 64,845 6,485 71,330
+12855200 524000 Workers' Comp 3,210 185 3,395
+12855200 544000 Rentals & Leases 3,560 2,405 5,965
+12855200 552000 Operating Supplies 26,200 510 26,710
+12855200 552001 Oper Supp-Gas, Oil, & Lub 25,000 3,900 28,900
+12855200 552002 Oper Supp-Tools & Sm Equip 4,580 2,160 6,740
+12855200 563000 Infrastructure 180,040 (24,620) 155,420
+TDC Parks & Recreation:
+12857200 522000 Retirement Contributions 17,485 1,385 18,870
+12857200 534000 Other Services 10,000 (3,600) 6,400
+12857200 548000 Promotional Activities 2,000 2,215 4,215
+This Budget Amendment duly approved and adopted by the Gulf County Board of
+County Commissioners at their regular meeting on the 23rd day of November 2021.
+(End)
+#17 – HHRP Fund (Amend the FY2020-21 Budget for HHRP Fund for Line
+Item Adjustments for Approved Expenditures), as follows:
+Budget Amendment #17
+Amend the FY2020-21 Budget for HHRP Fund for line item adjustments for approved
+expenditures.
+HHRP Fund
+Current Increase Amended
+Budget (Decrease) Budget
+
+Expenditures:
+13055400 512000 HHRP Reg Salaries & Wages 107,170 280 107,450
+13055400 522000 HHRP Retire Contributions 10,475 280 10,755
+13055400 531000 HHRP Professional Sev 100,000 (61,595) 38,405
+13055400 532000 HHRP Acct & Auditing 72,040 (52,040) 20,000
+13055400 544000 HHRP Rentals & Leases 0 20 20
+13055400 549000 HHRP Othr Crrt Chrg & Obliga 0 110,755 110,755
+13055400 551000 HHRP Office Supplies 1,000 795 1,795
+13055400 552002 HHRP Oper Supp-Tools & Sm Equip 0 1,505 1,505
+This Budget Amendment duly approved and adopted by the Gulf County Board of
+County Commissioners at their regular meeting on the 23rd day of November 2021.
+(End)
+6. Grant – Agreement (Division of Emergency Management * Hazard Mitigation
+Grant Program * Design Safe Room * H0725 * $159,625.00 *
+Advertise to Receive Sealed Bids, if needed)
+– Application (F.E.M.A. * Assistance to Firefighters Grant * Purchase
+Battery Operated Jaws of Life * South Gulf Fire Department *
+Request to Purchase through GSA or Cooperative Agreement, if
+possible)
+– Award (FL Department of Health * E.M.S. County Grant * E.M.S. Training
+* C0023 * $3,521.00)
+7. H.H.R.P. – Request to move Kristen Brown from Low Income Category to
+Moderate Income Category
+8. Inventory – Gulf Co Sheriff’s Office (Asset Transfer to Gulf Co Detention Facility/
+Jail * 2014 Ford Taurus * VIN #1FAHP2MK9EG148609)
+– Tourist Development Council (Asset Disposal * Asset #230-63 * 2003
+Ford F150 * VIN #1FTRX18L63NB76727 * Asset #230-65 * 2003
+Chevrolet K1500 4x4 White * VIN #1GCEK14V63Z318832)
+9. Resolution – Amending FY2020-21 Budget (Unanticipated Revenues in the
+General Fund), as follows:
+RESOLUTION NO. 2021-54
+WHEREAS, the Board of County Commissioners of Gulf County, Florida, has
+unanticipated revenues in the General Fund; and
+WHEREAS, said revenues are necessary for approved expenditures in Fiscal Year
+2020-21;
+NOW, THEREFORE, BE IT RESOLVED, as follows:
+
+The 2020-21 Fiscal Year Budget is to be amended, as follows:
+General Fund
+Current Increase Amended
+Budget (Decrease) Budget
+Revenues:
+00134200 342100 Law Enforcement Services 521,600 17,250 538,850
+00134200 342500 Code Enforcement Services 0 10,000 10,000
+Expenditures:
+Board of County Commissioners:
+00151100 511000 Executive Salaries 148,425 451 148,876
+00151100 523000 Life & Health Ins 46,610 (451) 46,159
+00151100 544000 Rentals & Leases 1,985 21 2,006
+00151100 549002 Other Charges-PY Rev Refund 1,000 3,435 4,435
+00151100 552002 Oper Supp-Tools & Sm Equip 1,000 229 1,229
+00151100 554000 Books, Pub, Subs & Mmbsp 19,980 (3,685) 16,295
+County Administration:
+00151200 540000 Travel & Per Diem 14,700 (5,577) 9,123
+00151200 544000 Rentals & Leases 0 6 6
+00151200 551000 Office Supplies 100 252 352
+00151200 552000 Operating Supplies 600 1,651 2,251
+00151200 552002 Oper Supp-Tools & Sm Equip 200 474 674
+00151200 564000 Machinery & Equip 0 3,194 3,194
+Clerk to Board:
+00151201 523000 Life & Health Ins 89,089 (225) 88,864
+00151201 591001 Clerk to Board-Stipend 0 225 225
+Tax Collector:
+00151301 591002 Tax Collector-TDC Admin Fee 54,000 67,578 121,578
+HR & Risk Management:
+00151302 512000 Regular Salaries & Wages 97,779 652 98,431
+00151302 522000 Retirement Contributions 22,802 576 23,378
+00151302 523000 Life & Health Insurance 5,289 34 5,323
+00151302 531000 Professional Services 1,200 65 1,265
+00151302 534000 Other Services 765 176 941
+00151302 540000 Travel & Per Diem 3,700 (2,842) 858
+00151302 546002 Repair & Maint- Equipment 300 57 357
+00151302 551000 Office Supplies 1,150 687 1,837
+00151302 552000 Operating Supplies 5,700 1,822 7,522
+00151302 555000 Training 2,400 (1,227) 1,173
+Office of Management & Budget:
+00151307 512000 Reg Salaries & Wages 147,699 3,294 150,993
+00151307 522000 Retirement Contri 30,060 1,271 31,331
+00151307 523000 Life & Health Ins 26,472 79 26,551
+00151307 534000 Other Services 830 456 1,286
+00151307 540000 Travel & Per Diem 5,000 (3,957) 1,043
+00151307 546001 Repair & Maint-Build & Grnd 4,000 (4,000) 0
+00151307 546002 Repair & Maint-Equip 720 37 757
+00151307 552001 Oper Supp-Gas, Oil, & Lub 300 8 308
+00151307 552002 Oper Supp-Tools & Sm Equip 1,000 1,534 2,534
+00151307 564000 Machinery & Equip 4,500 1,278 5,778
+
+County Engineer:
+00151308 534000 Other Services 6,220 (1,741) 4,479
+00151308 540000 Travel & Per Diem 2,000 1,866 3,866
+00151308 555000 Training 500 850 1,350
+00151308 564000 Machinery & Equip 1,000 (1,000) 0
+00151400 554000 Books, Pub, Subs & Mbrshp 125 25 150
+Planning:
+00151500 512000 Reg Salaries & Wages 115,800 3,281 119,081
+00151500 521000 FICA Taxes (SS Match) 7,455 74 7,529
+00151500 521001 FICA Taxes (Medicare Match) 1,745 16 1,761
+00151500 522000 Retirement Contributions 25,810 1,547 27,357
+00151500 523000 Life & Health Ins 8,870 (5,000) 3,870
+00151500 540000 Travel & Per Diem 4,100 (2,785) 1,315
+00151500 552002 Oper Supp-Tools & Sm Equip 500 2,778 3,278
+00151500 554000 Books, Pub, Subs & Mbshp 100 32 132
+00151500 564000 Machinery & Equip 1,000 57 1,057
+GIS:
+00151501 522000 Retirement Contributions 3,280 14 3,294
+00151501 524000 Workers' Com 0 616 616
+00151501 552000 Operating Supplies 8,270 (6,395) 1,875
+00151501 564000 Machinery & Equip 0 5,765 5,765
+IT:
+00151600 522000 Retirement Contributions 12,215 (593) 11,622
+00151600 523000 Life & Health Ins 23,165 (4,100) 19,065
+00151600 531000 Professional Services 0 372 372
+00151600 534000 Other Services 7,130 (6,600) 530
+00151600 540000 Travel & Per Diem 5,870 (5,800) 70
+00151600 541000 Comm Services 7,900 (2,700) 5,200
+00151600 542000 Freight & Postage Service 100 26 126
+00151600 544000 Rentals & Leases 5,500 26 5,526
+00151600 546002 Repair & Maint- Equipment 500 1,020 1,520
+00151600 551000 Office Supplies 1,000 5 1,005
+00151600 552000 Operating Supplies 6,000 3,248 9,248
+00151600 552002 Oper Supp-Tools & Sm Equip 2,000 7,493 9,493
+00151600 554000 Books, Pub, Subs & Mmbshp 1,000 2,509 3,509
+00151600 555000 Training 4,000 (4,000) 0
+00151600 564000 Machinery & Equip 1,000 9,094 10,094
+Supervisor of Elections:
+00151900 523000 Life & Health Ins 27,175 (224) 26,951
+00151900 541000 Comm Services 3,330 224 3,554
+Courthouse Complex:
+00151901 546001 Repair & Maint-Build & Grnd 15,000 1,099 16,099
+00151901 564000 Machinery & Equip 25,000 (1,099) 23,901
+County Services:
+00151902 531000 Professional Services 50,000 (41,602) 8,398
+00151902 534000 Other Services 40,000 (30,000) 10,000
+00151902 552000 Operating Supplies 1,000 2,618 3,618
+Sheriff:
+00152100 523000 Life & Health Ins 378,928 (1,453) 377,475
+00152100 591001 Sheriff-Stipend 26,159 1,453 27,612
+00152100 591003 Sheriff-Law Enforce Ser 521,600 17,250 538,850
+Fire Coordinator:
+00152200 541000 Communications Services 1,395 353 1,748
+00152200 546002 Repair & Maint-Equip 0 250 250
+
+00152200 552001 Oper Supp-Gas, Oil, & Lub 1,000 (603) 397
+Jail:
+00152300 512000 Reg Salaries & Wages 813,635 (82,028) 731,607
+00152300 512002 Sal-Term Pay Sick Leave 70,030 4,147 74,177
+00152300 514000 Overtime 23,100 596 23,696
+00152300 515000 Special Pay 1,440 720 2,160
+00152300 531000 Professional Services 26,210 580 26,790
+00152300 531001 Prof Services-Inmate Med 70,000 (50,000) 20,000
+00152300 534000 Other Services 158,860 20,711 179,571
+00152300 546001 Repair & Maint-Build & Grnd 4,000 32,047 36,047
+00152300 546002 Repair & Maint-Equip 2,000 6,985 8,985
+00152300 552002 Oper Supp-Tools & Sm Equip 2,200 1,823 4,023
+00152300 552004 Oper Supp-Inmate Food 95,000 50,400 145,400
+00152300 552005 Oper Supp-Inmate Rx/OTC 25,000 14,019 39,019
+Probation:
+00152301 512000 Reg Salaries & Wages 38,155 (1,046) 37,109
+00152301 551000 Office Supplies 1,495 946 2,441
+00152301 552002 Oper Supp-Tools & Sm Equip 0 100 100
+Building:
+00152400 512000 Reg Salaries & Wages 270,604 4,823 275,427
+00152400 512001 Salaries-Term Pay Annual Leave 0 1,214 1,214
+00152400 512002 Salaries-Term Pay Sick Leave 0 987 987
+00152400 522000 Retirement Contributions 39,830 1,966 41,796
+00152400 531000 Professional Services 5,930 960 6,890
+00152400 540000 Travel & Per Diem 4,750 (4,000) 750
+00152400 541000 Communications Services 5,025 1,115 6,140
+00152400 544000 Rentals & Leases 2,540 176 2,716
+00152400 546001 Repair & Maint-Build & Grnd 0 26 26
+00152400 546002 Repair & Maint-Equipment 1,600 127 1,727
+00152400 549000 Other Current Charges & Obliga 0 337 337
+00152400 549001 Other Non-Promo Ad 250 83 333
+00152400 551000 Office Supplies 1,500 1,209 2,709
+00152400 552000 Operating Supplies 6,500 (1,311) 5,189
+00152400 552001 Oper Supp-Gas, Oil, & Lub 9,500 573 10,073
+00152400 552002 Oper Supp-Tools & Sm Equip 1,250 314 1,564
+00152400 554000 Books, Pub, Subs & Mmbshp 400 344 744
+00152400 564000 Machinery & Equip 0 1,057 1,057
+Emergency Management-Local Match:
+00152500 512000 Reg Salaries & Wages 95,895 5,429 101,324
+00152500 514000 Overtime 2,590 (2,590) 0
+00152500 522000 Retirement Contributions 13,930 1,717 15,647
+00152500 523000 Life & Health Ins 13,560 289 13,849
+00152500 524000 Workers' Comp 1,880 8 1,888
+00152500 534000 Other Services 10,783 (2,548) 8,235
+00152500 541000 Communications Services 6,540 914 7,454
+00152500 544000 Rentals & Leases 0 375 375
+00152500 546001 Repair & Maint-Build & Grnd 945 (822) 123
+00152500 549001 Other Non-Promo Ad 200 219 419
+00152500 551000 Office Supplies 1,500 (1,068) 432
+00152500 552000 Operating Supplies 6,475 407 6,882
+00152500 552001 Oper Supp-Gas, Oil, & Lub 4,000 (2,124) 1,876
+00152500 552002 Oper Supp-Tools & Sm Equip 1,000 (498) 502
+00152500 554000 Books, Pub, Subs & Mbrshp 735 32 767
+00152500 555000 Training 1,600 2,710 4,310
+00152500 564000 Machinery & Equip 2,500 (2,450) 50
+
+Radio Communications $12.50 Surcharge:
+00152501 544000 Rentals & Leases 3,545 575 4,120
+00152501 546003 Repair & Maint-Radio Tower 0 352 352
+Honeyville Community Emergency Center:
+00152502 534000 Other Services 100 94 194
+00152502 541000 Communications Services 700 821 1,521
+00152502 543000 Utility Service 6,000 1,720 7,720
+00152502 546001 Repair & Maint-Build & Grnd 3,000 (2,697) 303
+00152502 546002 Repair & Maint-Equipt 0 98 98
+00152502 549000 Other Current Charges & Obliga 0 545 545
+00152502 552000 Operating Supplies 200 (128) 72
+00152502 552001 Oper Supp- Gas, Oil, & Lub 0 26 26
+EMS:
+00152600 513000 Other Salaries & Wages 194,960 25,679 220,639
+00152600 514000 Overtime 299,775 (28,900) 270,875
+00152600 540000 Travel & Per Diem 250 106 356
+00152600 544000 Rentals & Leases 1,500 326 1,826
+00152600 551000 Office Supplies 500 324 824
+00152600 552001 Oper Supp-Gas, Oil, & Lub 37,000 2,465 39,465
+Search & Rescue:
+00152601 549000 Othr Curret Chrg & Obliga 100 74 174
+00152601 552000 Operating Supplies 5,300 (74) 5,226
+Extension Services:
+00153700 512000 Reg Salaries & Wages 71,655 1,293 72,948
+00153700 540000 Travel & Per Diem 3,500 (1,800) 1,700
+00153700 541000 Comm Services 4,720 356 5,076
+00153700 542000 Freight & Postage Service 100 67 167
+00153700 546001 Repair & Maint-Build & Grnd 5,950 922 6,872
+00153700 546002 Repair & Maint-Equip 1,300 110 1,410
+00153700 552002 Oper Supp-Tools & Sm Equip 2,350 (948) 1,402
+EDC:
+00155201 523000 Life & Health Ins 161 163 324
+00155201 531000 Professional Services 27,000 (26,208) 792
+00155201 534000 Other Services 75,830 24,452 100,282
+00155201 552002 Oper Supp-Tools & Sm Equip 60 320 380
+00155201 554000 Books, Pub, Subs & Mmbrshp 2,900 1,273 4,173
+Veterans Services:
+00155300 512000 Regular Salaries & Wages 11,910 63 11,973
+00155300 522000 Retirement Contributions 1,165 33 1,198
+00155300 540000 Travel & Per Diem 5,000 (1,958) 3,042
+00155300 541000 Comm Services 660 93 753
+00155300 544000 Rentals & Leases 1,760 1,344 3,104
+00155300 554000 Books, Pub, Subs & Mmbrshp 80 425 505
+Animal Control:
+00156200 512000 Regular Salaries & Wages 41,550 196 41,746
+00156200 522000 Retirement Contributions 4,155 118 4,273
+00156200 523000 Life & Health Insurance 8,585 29 8,614
+00156200 540000 Travel & Per Diem 1,000 (392) 608
+00156200 544000 Rentals & Leases 170 49 219
+Health Department:
+00156202 546001 Repair & Maint-Build & Grnd 4,200 (629) 3,571
+00156202 546002 Repair & Maint-Equip 645 430 1,075
+00156202 549000 Othr Current Chrg & Obliga 100 180 280
+00156202 552000 Operating Supplies 500 19 519
+
+FL Boating Improvement:
+00157900 546001 Repair & Maint-Build & Grnd 0 9,995 9,995
+00157900 563000 Infrastructure 98,225 (9,995) 88,230
+State Attorney – Local:
+00160200 544000 Rentals & Leases 2,500 27 2,527
+00160200 546002 Repair & Maint- Equip 1,650 (27) 1,623
+Court Tech – Court Admin:
+00171300 534000 Other Services 5,000 45 5,045
+00171300 546002 Repair & Maint- Equip 20,380 (45) 20,335
+Court Tech – Public Defender:
+00171302 546002 Repair & Maint- Equip 0 503 503
+00171302 552000 Operating Supplies 1,360 617 1,977
+00171302 552002 Oper Supp-Tools & Sm Equip 1,400 (1,120) 280
+Reserves & Transfers-Out:
+00158100 591000 GF Inter-Fund Trsfr Out 3,925,478 81,810 4,007,288
+00199700 599000 GF Resv- Contingencies 2,672,474 (81,810) 2,590,664
+THIS RESOLUTION ADOPTED by the Gulf County Board of County
+Commissioners, this 23rd day of November 2021.
+(End)
+– Amending FY2020-21 Budget (Unanticipated Revenues in the SHIP/
+LHAP Grant Fund), as follows:
+RESOLUTION NO. 2021-55
+WHEREAS, the Board of County Commissioners of Gulf County, Florida, has
+unanticipated revenues in the SHIP/LHAP Grant Fund; and
+WHEREAS, said revenues are necessary for approved expenditures in Fiscal Year
+2020-21;
+NOW, THEREFORE, BE IT RESOLVED, as follows:
+The 2020-21 Fiscal Year Budget is to be amended, as follows:
+SHIP/LHAP Grant Fund
+Current Increase Amended
+Budget (Decrease) Budget
+Revenues:
+11233400 334500 SHIP SHIP Local Housing Asst 0 267,477 267,477
+11236100 361100 SHIP Interest 0 601 601
+11236900 369900 SHIP SHIP Program Income 0 27 27
+Expenditures:
+11255400 512000 SHIP Regular Sal & Wages 0 303 303
+11255400 521000 SHIP FICA Taxes (SS Match) 0 15 15
+11255400 521001 SHIP FICA Taxes (Medicare Match) 0 4 4
+
+11255400 522000 SHIP Retirement Contributions 0 28 28
+11255400 523000 SHIP Life & Health Insurance 0 99 99
+11255400 524000 SHIP Workers' Compensation 0 1 1
+11255400 532000 SHIP Accounting & Auditing 0 2,000 2,000
+11255400 534000 SHIP Other Services 0 87 87
+11255400 544000 SHIP Rentals & Leases 0 32 32
+11255400 583000 SHIP Other Grants & Aids 0 265,536 265,536
+THIS RESOLUTION ADOPTED by the Gulf County Board of County
+Commissioners, this 23rd day of November 2021.
+(End)
+– Amending FY2020-21 Budget (Unanticipated Revenues in the General
+Grants Fund) , as follows:
+RESOLUTION NO. 2021-56
+WHEREAS, the Board of County Commissioners of Gulf County, Florida, has
+unanticipated revenues in the General Grants Fund; and
+WHEREAS, said revenues are necessary for approved expenditures in Fiscal Year
+2020-21;
+NOW, THEREFORE, BE IT RESOLVED, as follows:
+The 2020-21 Fiscal Year Budget is to be amended, as follows:
+General Grants Fund
+Current Increase Amended
+Budget (Decrease) Budget
+Revenues:
+11433100 331200 CESF Coronavirus Emrg Sup Fund 0 10,908 10,908
+11433100 331390 NFWF NFWF NOAA Grt Prg 2,829,067 40,583 2,869,650
+11433100 331500 EAAP EDA Econ Adj Assist Prg 0 44,080 44,080
+11433400 334390 BEACH DEP Beach Rest Grant 1,356,268 8,160 1,364,428
+11433400 334490 SCOP Sm Co Outreach Prg 5,362,115 1,150,778 6,512,893
+11433400 334490 PORT FDOT Seaport Grant Prg 761,006 5,551 766,557
+11433400 334500 DHCD FDEO Div Hous & Comm Dev Grt 14,656 11,020 25,676
+11433700 337300 NFWMD NW FL Water Mgmt Dist Grt 0 39,000 39,000
+Expenditures:
+11452100 591000 CESF Intragov Transfer Out 0 10,908 10,908
+11452500 524000 EMPA Workers' Comp 1,335 47 1,382
+11452500 564000 EMPA Machinery & Equip 3,446 (47) 3,399
+11452500 512000 EMPG Reg Salaries & Wages 46,099 (754) 45,345
+11452500 522000 EMPG Retirement Contributions 4,430 278 4,708
+11452500 523000 EMPG Life & Health Ins 285 476 761
+11453300 563000 NFWMD Infrastructure 0 39,000 39,000
+11453700 531000 BEACH Professional Services 1,356,268 8,160 1,364,428
+11453700 531000 NFWF Professional Services 2,829,067 40,583 2,869,650
+
+11454100 563000 SCOP Infrastructure 5,362,115 1,150,778 6,512,893
+11454300 531000 PORT Professional Services 761,006 5,551 766,557
+11455900 563000 DHCD Infrastructure 975 11,020 11,995
+11455900 563000 EAAP Infrastructure 0 44,080 44,080
+THIS RESOLUTION ADOPTED by the Gulf County Board of County
+Commissioners, this 23rd day of November 2021.
+(End)
+– Amending FY2020-21 Budget (Unanticipated Revenues in the BP &
+Restore Act Fund), as follows:
+RESOLUTION NO. 2021-57
+WHEREAS, the Board of County Commissioners of Gulf County, Florida, has
+unanticipated revenues in the BP & Restore Act Fund; and
+WHEREAS, said revenues are necessary for approved expenditures in Fiscal Year
+2020-21;
+NOW, THEREFORE, BE IT RESOLVED, as follows:
+The 2020-21 Fiscal Year Budget is to be amended, as follows:
+BP & Restore Act Fund
+Current Increase Amended
+Budget (Decrease) Budget
+Revenues & Transfers-In:
+11933100 331390 GCR01 Gulf Consort Grt#01 Brkwtr 68,493 13,314 81,807
+11933100 331390 RES02 Restore Act Bch Restn 28,275 19,500 47,775
+Expenditures:
+11953700 531000 GCR01 Professional Services 68,493 13,314 81,807
+11953700 531000 RES02 Professional Services 28,275 19,500 47,775
+THIS RESOLUTION ADOPTED by the Gulf County Board of County
+Commissioners, this 23rd day of November 2021.
+(End)
+– Amending FY2020-21 Budget (Unanticipated Revenues in the County
+Development Fund), as follows:
+RESOLUTION NO. 2021-58
+WHEREAS, the Board of County Commissioners of Gulf County, Florida, has
+unanticipated revenues in the County Development Fund; and
+
+WHEREAS, said revenues are necessary for approved expenditures in Fiscal Year
+2020-21;
+NOW, THEREFORE, BE IT RESOLVED, as follows:
+The 2020-21 Fiscal Year Budget is to be amended, as follows:
+County Development Fund
+Current Increase Amended
+Budget (Decrease) Budget
+Revenues & Transfers-In:
+12336100 361100 Interest 0 360 360
+12336500 365002 Sale Material-Tier2 Intmd Soil 0 43,520 43,520
+12336500 365004 Sale Material-Tier4 Cert Sand 0 1,376,525 1,376,525
+12338100 381000 CD Inter-fund Transfer In 0 81,810 81,810
+Expenditures:
+12351900 531000 Professional Services 0 1,112,875 1,112,875
+12351900 561000 Land 0 389,340 389,340
+THIS RESOLUTION ADOPTED by the Gulf County Board of County
+Commissioners, this 23rd day of November 2021.
+(End)
+– Amending FY2020-21 Budget (Unanticipated Revenues in the Wireless
+911 Grant Fund), as follows:
+RESOLUTION NO. 2021-59
+WHEREAS, the Board of County Commissioners of Gulf County, Florida, has
+unanticipated revenues in the Wireless 911Grant Fund; and
+WHEREAS, said revenues are necessary for approved expenditures in Fiscal Year
+2020-21;
+NOW, THEREFORE, BE IT RESOLVED, as follows:
+The 2020-21 Fiscal Year Budget is to be amended, as follows:
+Wireless 911 Grant Fund
+Current Increase Amended
+Budget (Decrease) Budget
+Revenues:
+12533100 331200 NG911 Next Generation 911 Grant 39,500 24,118 63,618
+12533400 334200 E911R E911 Rural County Grant 0 37,293 37,293
+
+Expenditures:
+12552500 534000 E911R Other Services 0 37,293 37,293
+12552500 534000 NG911 Other Services 39,500 24,118 63,618
+THIS RESOLUTION ADOPTED by the Gulf County Board of County
+Commissioners, this 23rd day of November 2021.
+(End)
+– Amending FY2020-21 Budget (Unanticipated Revenues in the Disaster
+Fund), as follows:
+RESOLUTION NO. 2021-60
+WHEREAS, the Board of County Commissioners of Gulf County, Florida, has
+unanticipated revenues in the Disaster Fund; and
+WHEREAS, said revenues are necessary for approved expenditures in Fiscal Year
+2020-21;
+NOW, THEREFORE, BE IT RESOLVED, as follows:
+The 2020-21 Fiscal Year Budget is to be amended, as follows:
+Disaster Fund
+Current Increase Amended
+Budget (Decrease) Budget
+Revenues & Transfers-In:
+12738100 381000 DF Inter-Fund Transfer In 0 1,048,100 1,048,100
+Expenditures:
+12751300 514002 Overtime (Disaster) 0 2,335 2,335
+12751300 521000 FICA Taxes (Soc Sec Match) 0 145 145
+12751300 521001 FICA Taxes (Medicare Match) 0 35 35
+12751300 522000 Retirement Contributions 0 525 525
+12751900 514002 Overtime (Disaster) 0 1,305 1,305
+12751900 521000 FICA Taxes (Soc Sec Match) 0 80 80
+12751900 521001 FICA Taxes (Medicare Match) 0 20 20
+12751900 522000 Retirement Contributions 0 145 145
+12752300 514002 Overtime (Disaster) 0 550 550
+12752300 521000 FICA Taxes (Soc Sec Match) 0 35 35
+12752300 521001 FICA Taxes (Medicare Match) 0 10 10
+12752300 522000 Retirement Contributions 0 60 60
+12752301 514002 Overtime (Disaster) 0 1,540 1,540
+12752301 521000 FICA Taxes (Soc Sec Match) 0 95 95
+12752301 521001 FICA Taxes (Medicare Match) 0 25 25
+12752301 522000 Retirement Contributions 0 375 375
+12752301 512000 CRF Regular Salaries & Wages 0 138,406 138,406
+12752301 512001 CRF Salaries- Term Pay Annual Leav 0 421 421
+12752301 514000 CRF Overtime 0 5,412 5,412
+
+12752301 515000 CRF Special Pay 0 480 480
+12752301 521000 CRF FICA Taxes (Soc Sec Match) 0 8,689 8,689
+12752301 521001 CRF FICA Taxes (Medicare Match) 0 2,032 2,032
+12752301 522000 CRF Retirement Contributions 0 33,957 33,957
+12752301 523000 CRF Life & Health Insurance 0 26,490 26,490
+12752301 549000 CRF Otr Curt Chrg & Obliga 564,297 (215,887) 348,410
+12752600 512000 CRF Reg Salaries & Wages 0 105,763 105,763
+12752600 512001 CRF Sal-Term Pay Annual Leave 0 4,408 4,408
+12752600 512002 CRF Sal-Term Pay Sick Leave 0 7,449 7,449
+12752600 513000 CRF Other Salaries & Wages 0 60,345 60,345
+12752600 514000 CRF Overtime 0 48,301 48,301
+12752600 514001 CRF Overtime (no retirement) 0 4,702 4,702
+12752600 521000 CRF FICA Taxes (Soc Sec Match) 0 14,089 14,089
+12752600 521001 CRF FICA Taxes (Medicare Match) 0 3,295 3,295
+12752600 522000 CRF Retirement Contributions 0 38,059 38,059
+12752600 523000 CRF Life & Health Insurance 0 19,824 19,824
+12752600 549000 CRF Othr Curt Chrg & Obliga 794,743 (306,235) 488,508
+12752500 531000 Professional Services 0 1,455 1,455
+12752500 549001 Other Non-Promo Ad 0 955 955
+12753700 531000 Professional Services 0 648,100 648,100
+12754100 514002 Overtime (Disaster) 0 3,635 3,635
+12754100 521000 FICA Taxes (SS Match) 0 220 220
+12754100 521001 FICA Taxes (Medicare Match) 0 55 55
+12754100 522000 Retirement Contributions 0 420 420
+12756200 514002 Overtime (Disaster) 0 835 835
+12756200 521000 FICA Taxes (Soc Sec Match) 0 55 55
+12756200 521001 FICA Taxes (Medicare Match) 0 15 15
+12756200 522000 Retirement Contributions 0 170 170
+12757200 546001 Repair & Maint-Build & Grnd 0 1,695 1,695
+12757200 546001 PA428 Repair & Maint-Build & Grnd 0 6,655 6,655
+12757200 563000 PA428 Infrastructure 0 68,395 68,395
+Reserves & Transfers-Out:
+12799700 599000 DF Resv-Contingencies 0 104,810 104,810
+12799800 599000 DF Reserves Cash Carry Fwd 0 203,350 203,350
+THIS RESOLUTION ADOPTED by the Gulf County Board of County
+Commissioners, this 23rd day of November 2021.
+(End)
+– Amending FY2020-21 Budget (Unanticipated Revenues in the General
+Parks & Recreation Fund), as follows:
+RESOLUTION NO. 2021-61
+WHEREAS, the Board of County Commissioners of Gulf County, Florida, has
+unanticipated revenues in the General Parks & Recreation Fund; and
+WHEREAS, said revenues are necessary for approved expenditures in Fiscal Year
+2020-21;
+NOW, THEREFORE, BE IT RESOLVED, as follows:
+
+The 2020-21 Fiscal Year Budget is to be amended, as follows:
+General Parks & Recreation Fund
+Current Increase Amended
+Budget (Decrease) Budget
+Revenues & Transfers-In:
+13134701 347200 Beacon Hill Park Usage Fees 0 281 281
+13134702 347200 Dead Lakes Park Usage Fees 0 9,750 9,750
+13134703 347200 Honeyville Park Usage Fees 0 4,006 4,006
+13134705 347200 Cape Palms Park Usage Fees 0 94 94
+13136201 362000 Rents/ Royalties Beacon Hill 0 10,000 10,000
+13136601 366000 Donations- Beacon Hill Park 0 100 100
+Expenditures:
+13157200 531000 Professional Services 0 400 400
+13157200 546001 Repair & Maint-Build & Grnd 44,000 (14,986) 29,014
+13157200 546002 Repair & Maint-Equip 2,000 1,204 3,204
+13157200 552000 Operating Supplies 12,300 1,526 13,826
+13157200 552001 Oper Supp-Gas, Oil, & Lub 0 42 42
+13157201 534000 Other Services 0 550 550
+13157201 541000 Communications Services 0 929 929
+13157201 543000 Utility Service 3,480 6,557 10,037
+13157201 546001 Repair & Maint- Build & Grnd 1,000 21,325 22,325
+13157201 552000 Operating Supplies 0 1,070 1,070
+13157201 563000 Infrastructure 285,000 (285,000) 0
+13157202 549001 Other Non-Promo Advertising 0 145 145
+13157202 552000 Operating Supplies 0 63 63
+13157203 534000 Other Services 0 85 85
+13157203 546001 Repair & Maint- Build & Grnd 500 10,680 11,180
+13157203 552000 Operating Supplies 0 88 88
+13157204 543000 Utility Service 4,020 2,583 6,603
+13157204 546001 Repair & Maint- Build & Grnd 500 1,585 2,085
+13157204 552000 Operating Supplies 0 1,417 1,417
+13157204 552002 Oper Supp- Tools & Small Equip 0 6 6
+13157205 543000 Utility Service 705 1,194 1,899
+13157205 544000 Rentals & Leases 0 300 300
+13157205 546001 Repair & Maint-Build & Grnd 500 66 566
+13157205 552000 Operating Supplies 0 13 13
+13157206 546001 Repair & Maint-Build & Grnd 500 2,058 2,558
+13157206 552000 Operating Supplies 0 225 225
+13157207 546001 Repair & Maint-Build & Grnd 500 704 1,204
+13157207 552000 Operating Supplies 0 20 20
+13157208 531000 Professional Services 0 6,850 6,850
+13157208 543000 Utility Service 600 255 855
+13157208 546001 Repair & Maint-Build & Grnd 500 1,715 2,215
+13157208 549001 Other Non-Promo Advertising 0 145 145
+13157208 552000 Operating Supplies 0 746 746
+13157208 561000 Land 0 8,111 8,111
+13157208 563000 Infrastructure 0 30,900 30,900
+13157210 543000 Utility Service 2,640 295 2,935
+13157210 552000 Operating Supplies 0 168 168
+13157211 546001 Repair & Maint- Build & Grnd 500 197 697
+
+Reserves & Transfers-Out:
+13158100 591000 GPR Inter-Fund Transfer Out 0 400,000 400,000
+13199700 599001 GPR Resv-Beacon Hill Park 60,000 (60,000) 0
+13199800 599001 GPR Resv-CCF Beacon Hill Park 120,000 (120,000) 0
+THIS RESOLUTION ADOPTED by the Gulf County Board of County
+Commissioners, this 23rd day of November 2021.
+(End)
+– Amending FY2020-21 Budget (Unanticipated Revenues in the Capital
+Projects Fund), as follows:
+RESOLUTION NO. 2021-62
+WHEREAS, the Board of County Commissioners of Gulf County, Florida, has
+unanticipated revenues in the Capital Projects Fund; and
+WHEREAS, said revenues are necessary for approved expenditures in Fiscal Year
+2020-21;
+NOW, THEREFORE, BE IT RESOLVED, as follows:
+The 2020-21 Fiscal Year Budget is to be amended, as follows:
+Capital Projects Fund
+Current Increase Amended
+Budget (Decrease) Budget
+Revenues & Transfers-In:
+30136400 364000 Disposition of Fixed Assets 0 26,670 26,670
+30136900 369300 Settlements 0 1,000 1,000
+Expenditures:
+30151300 591000 Property Appraiser-Capital 0 9,177 9,177
+30151900 546001 Repair & Maint-Build & Grnd 0 110,438 110,438
+30152500 546001 Repair & Maint-Build & Grnd 0 79,922 79,922
+30157200 546001 Repair & Maint-Build & Grnd 0 17,464 17,464
+Reserves & Transfers-Out:
+30199700 599000 CP Resv-Capital Outlay 1,815,508 (189,331) 1,626,177
+THIS RESOLUTION ADOPTED by the Gulf County Board of County
+Commissioners, this 23rd day of November 2021.
+(End)
+– Amending FY2020-21 Budget (Unanticipated Revenues in the
+Construction & Acquisition Fund), as follows:
+RESOLUTION NO. 2021-63
+
+WHEREAS, the Board of County Commissioners of Gulf County, Florida, has
+unanticipated revenues in the Construction & Acquisition Fund; and
+WHEREAS, said revenues are necessary for approved expenditures in Fiscal Year
+2020-21;
+NOW, THEREFORE, BE IT RESOLVED, as follows:
+The 2020-21 Fiscal Year Budget is to be amended, as follows:
+Construction & Acquisition Fund
+Current Increase Amended
+Budget (Decrease) Budget
+Revenues:
+30236100 361100 Interest 0 78 78
+30239800 398000 C&A Cash Carried Forward 0 94,047 94,047
+Expenditures:
+30254100 563000 Infrastructure 0 94,125 94,125
+THIS RESOLUTION ADOPTED by the Gulf County Board of County
+Commissioners, this 23rd day of November 2021.
+(End)
+– Amending FY2020-21 Budget (Increased Receipts in the Gulf County Golf
+Club Fund), as follows:
+RESOLUTION NO. 2021-64
+WHEREAS, the Board of County Commissioners of Gulf County, Florida, has
+increased receipts for enterprise funds received for a particular purpose in the Gulf
+County Golf Club Fund; and
+WHEREAS, said revenues are necessary for approved expenditures in Fiscal Year
+2020-21;
+NOW, THEREFORE, BE IT RESOLVED, as follows:
+The 2020-21 Fiscal Year Budget is to be amended, as follows:
+Gulf County Golf Club Fund
+Current Increase Amended
+Budget (Decrease) Budget
+Revenues & Transfers-In:
+40434700 347200 Membership Dues 140,000 70,615 210,615
+40434700 347201 Daily Usage Fees 310,000 221,575 531,575
+
+40436200 362000 Rents and Royalties 24,000 (12,750) 11,250
+40436900 369901 Sale of Merchandise 45,000 55,000 100,000
+Expenditures:
+40457200 534000 Other Services 21,650 57,125 78,775
+40457200 544000 Rentals & Leases 73,500 9,620 83,120
+40457200 546001 Repair & Maint-Build & Grnd 30,000 37,480 67,480
+40457200 546002 Repair & Maint-Equip 10,500 12,735 23,235
+40457200 549000 Other Current Charges & Obliga 1,000 1,430 2,430
+40457200 549002 Other Current Charges-COGS 0 83,475 83,475
+40457200 551000 Office Supplies 1,000 1,750 2,750
+40457200 552000 Operating Supplies 6,200 6,225 12,425
+40457200 552001 Oper Supp-Gas, Oil, & Lub 18,000 4,560 22,560
+40457200 552002 Oper Supp-Tools & Sm Equip 2,500 4,265 6,765
+40457200 552003 Oper Supp-Chemical/Insecticid 44,000 10,850 54,850
+40457200 555000 Training 0 250 250
+40457200 559000 Depreciation 0 17,255 17,255
+40457200 564000 Machinery & Equipment 0 13,750 13,750
+Reserves & Transfers-Out:
+40499700 599000 GCGC Reserve For Contingencies 0 73,670 73,670
+THIS RESOLUTION ADOPTED by the Gulf County Board of County
+Commissioners, this 23rd day of November 2021.
+(End)
+– Amending FY2020-21 Budget (Increased Receipts in the Gulf County
+Solid Waste Fund), as follows:
+RESOLUTION NO. 2021-65
+WHEREAS, the Board of County Commissioners of Gulf County, Florida, has
+increased receipts for enterprise funds received for a particular purpose in the Gulf
+County Solid Waste Fund; and
+WHEREAS, said revenues are necessary for approved expenditures in Fiscal Year
+2020-21;
+NOW, THEREFORE, BE IT RESOLVED, as follows:
+The 2020-21 Fiscal Year Budget is to be amended, as follows:
+Gulf County Solid Waste Fund
+Current Increase Amended
+Budget (Decrease) Budget
+Revenues:
+40534300 343400 Garbage/Solid Waste 1,019,174 466,042 1,485,216
+40536100 361100 Interest 0 299 299
+40536500 365000 Sale Surplus Material & Scrap 0 18,688 18,688
+
+40536900 369900 Other Miscellaneous Revenue 0 3,500 3,500
+Expenditures:
+40553400 512000 Regular Salaries & Wages 186,460 (21,247) 165,213
+40553400 512002 Salaries-Term Pay Sick Leave 0 16,597 16,597
+40553400 514000 Overtime 0 4,650 4,650
+40553400 531000 Professional Services 620,150 (384,399) 235,751
+40553400 534000 Other Services 0 844,085 844,085
+40553400 544000 Rentals & Leases 195 651 846
+40553400 546001 Repair & Maint-Build & Grnd 0 9,306 9,306
+40553400 546002 Repair & Maint-Equipment 0 8,569 8,569
+40553400 549000 Other Current Charges & Obliga 0 70 70
+40553400 551000 Office Supplies 0 360 360
+40553400 552000 Operating Supplies 1,000 8,523 9,523
+40553400 552002 Oper Supp-Tools & Sm Equip 0 264 264
+40553400 555000 Training 0 1,100 1,100
+THIS RESOLUTION ADOPTED by the Gulf County Board of County
+Commissioners, this 23rd day of November 2021.
+(End)
+– Amending FY2020-21 Budget (Increase Receipts in the Gulf County
+Water System Fund), as follows:
+RESOLUTION NO. 2021-66
+WHEREAS, the Board of County Commissioners of Gulf County, Florida, has
+increased receipts for enterprise funds received for a particular purpose in the Gulf
+County Water System Fund; and
+WHEREAS, said revenues are necessary for approved expenditures in Fiscal Year
+2020-21;
+NOW, THEREFORE, BE IT RESOLVED, as follows:
+The 2020-21 Fiscal Year Budget is to be amended, as follows:
+Gulf County Water System Fund
+Current Increase Amended
+Budget (Decrease) Budget
+Revenues & Transfers-In:
+40634300 343300 Water Service Fee 0 404,085 404,085
+40634300 343301 Water Facility Charge 0 370,965 370,965
+40634300 343302 Water Connection Fee 0 45,010 45,010
+40634300 343303 Water Tap Fees 0 91,840 91,840
+40634300 343305 Water Delinquent Fees 0 9,150 9,150
+40634300 343306 Water New Account Charges 0 5,900 5,900
+40634300 343307 Water Meter Data Service 0 15,777 15,777
+40636200 362000 Rents and Royalties 0 7,920 7,920
+
+40636900 369900 Other Miscellaneous Revenue 0 445 445
+40638400 384000 Debt Proceeds 0 4,895,073 4,895,073
+Expenditures:
+Water System Debt Service:
+40651700 573000 Other Debt Service Costs 0 192,648 192,648
+Gulf County Water Utility Service:
+40653300 512000 Regular Salaries & Wages 0 124,335 124,335
+40653300 514000 Overtime 0 10,525 10,525
+40653300 521000 FICA Taxes (SS Match) 0 7,915 7,915
+40653300 521001 FICA Taxes (Medicare Match) 0 1,855 1,855
+40653300 522000 Retirement Contributions 0 13,970 13,970
+40653300 523000 Life & Health Ins 0 24,920 24,920
+40653300 531000 Professional Services 0 32,310 32,310
+40653300 534000 Other Services 0 171,530 171,530
+40653300 540000 Travel & Per Diem 0 175 175
+40653300 541000 Communications Services 0 5,890 5,890
+40653300 542000 Freight & Postage Service 0 7,505 7,505
+40653300 543000 Utility Service 0 41,390 41,390
+40653300 544000 Rentals & Leases 0 2,320 2,320
+40653300 546001 Repair & Maint-Build & Grnd 0 90,830 90,830
+40653300 546002 Repair & Maint-Equip 0 26,505 26,505
+40653300 549000 Other Current Charges & Obliga 0 925 925
+40653300 549001 Other Non-Promo Advertising 0 395 395
+40653300 551000 Office Supplies 0 3,855 3,855
+40653300 552000 Operating Supplies 0 12,990 12,990
+40653300 552001 Oper Supp-Gas, Oil, & Lub 0 6,410 6,410
+40653300 552002 Oper Supp-Tools & Small Equip 0 1,420 1,420
+40653300 552003 Oper Supp-Chemical/Insecticide 0 8,040 8,040
+40653300 554000 Books, Pub, Subs & Memberships 0 570 570
+40653300 563000 Infrastructure 0 4,347,649 4,347,649
+Reserves & Transfers-Out:
+40658100 591000 Water System Transfer Out 0 354,776 354,776
+40699700 599000 WS Reserve For Contingencies 0 354,512 354,512
+THIS RESOLUTION ADOPTED by the Gulf County Board of County
+Commissioners, this 23rd day of November 2021.
+(End)
+(End of Consent Agenda)
+BUDGET RESOLUTION – GENERAL GRANTS FUND
+OMB Director Herring discussed a proposed resolution located on page 1 in the packet
+provided to the Board prior to the meeting <copy provided to the Clerk for the record>.
+She then read the proposed resolution for the Board to consider. Chairman Quinn called
+for a motion to accept. Commissioner McDaniel so moved. Commissioner McCroan
+seconded the motion. Chairman Quinn called for public comment. There being no public
+comment, the motion passed unanimously, as follows:
+RESOLUTION NO. 2021-67
+
+WHEREAS, the Board of County Commissioners of Gulf County, Florida, has
+unanticipated revenues in the General Grants Fund; and
+WHEREAS, said revenues are necessary for approved expenditures in Fiscal Year
+2020-21;
+NOW, THEREFORE, BE IT RESOLVED, as follows:
+The 2020-21 Fiscal Year Budget is to be amended, as follows:
+General Grants Fund
+Current Increase Amended
+Budget (Decrease) Budget
+Revenues:
+11433100 331200 VFA Volunteer Fire Assist Grant 0 2,000 2,000
+Expenditures:
+11452200 564000 VFA Machinery & Equipment 0 2,000 2,000
+THIS RESOLUTION ADOPTED by the Gulf County Board of County
+Commissioners, this 23rd day of November 2021.
+(End)
+BUDGET RESOLUTION – VARIOUS FUNDS
+OMB Director Herring discussed a proposed budget resolution on page 2 from the same
+packet. She then read the proposed resolution for the Board to consider. Chairman Quinn
+called for a motion. Commissioner Farrell so moved. Commissioner Rich seconded the
+motion. Chairman Quinn called for public comment. There being no public comment, the
+motion passed unanimously, as follows:
+RESOLUTION NO. 2021-68
+WHEREAS, the Board of County Commissioners of Gulf County, Florida, has
+unanticipated inter-fund transfers in various funds; and
+WHEREAS, said transfers are necessary for approved expenditures in Fiscal Year
+2020-21;
+NOW, THEREFORE, BE IT RESOLVED, as follows:
+The 2020-21 Fiscal Year Budget is to be amended, as follows:
+General Fund
+Current Increase Amended
+Budget (Decrease) Budget
+
+Revenues & Transfers-Out:
+158100 591000 GF Inter-Fund Transfer Out 4,007,288 205,550 4,212,838
+00199700 599000 GF Resv- Contingencies 2,590,664 (205,550) 2,385,114
+TDC Fund
+Current Increase Amended
+Budget (Decrease) Budget
+Expenditures:
+12853700 531000 Professional Services 195,750 (155,750) 40,000
+Reserves & Transfers-Out:
+12858100 591000 TDC Inter-Fund Transfer Out 275,000 218,103 493,103
+12899700 599001 TDC Resv- Beach Restoration 63,250 (62,353) 897
+Non-Ad Valorem Debt Service Fund
+Current Increase Amended
+Budget (Decrease) Budget
+Revenues & Transfers-In:
+20538100 381000 NAVDS Inter-Fund Transfer In 175,000 218,103 393,103
+20538101 381000 CBA20 2020 WS CBA Bond Trsf In 354,776 205,550 560,326
+Reserves & Transfers-Out:
+20599800 599000 NAVDS Resv-CCF Debt Service 155,080 218,103 373,183
+20599801 599000 CBA20 2020 WS Bond CCF Debt Ser 0 205,550 205,550
+THIS RESOLUTION ADOPTED by the Gulf County Board of County
+Commissioners, this 23rd day of November 2021.
+(End)
+BUDGET RESOLUTION – CAPITAL PROJECTS FUND
+From page 3 of this packet, OMB Director Herring read the proposed budget resolution
+for the Board to consider. Chairman Quinn called for a motion. Commissioner McDaniel
+so moved. Commissioner Farrell seconded the motion. Chairman Quinn called for public
+comment. There being no public comment, the motion passed unanimously, as follows:
+RESOLUTION NO. 2021-69
+WHEREAS, the Board of County Commissioners of Gulf County, Florida, use of
+capital reserves in the Capital Projects Fund; and
+WHEREAS, said revenues are necessary for approved expenditures in Fiscal Year
+2021-22;
+NOW, THEREFORE, BE IT RESOLVED, as follows:
+The 2021-22 Fiscal Year Budget is to be amended, as follows:
+
+Capital Projects Fund
+Current Increase Amended
+Budget (Decrease) Budget
+Expenditures:
+30154100 564000 Machinery & Equip 721,780 117,916 839,696
+Reserves:
+30199700 599000 CP Resv- Capital Outlay 1,952,003 (117,916) 1,834,087
+THIS RESOLUTION ADOPTED by the Gulf County Board of County
+Commissioners, this 23rd day of November 2021.
+(End)
+GRANT APPLICATION – IOLA ROAD
+Assistant County Administrator Smallwood requested permission from the Board to apply
+to F.D.O.T. (Department of Transportation) for a T.R.I.P. (Transportation Regional
+Incentive Program) grant for the unpaved portion of Iola Road. Commissioner Rich so
+moved. Commissioner Farrell seconded the motion. Chairman Quinn called for public
+comment. There being no public comment, the motion passed unanimously.
+APPOINTMENT – CARE BOARD
+County Administrator Hammond stated that page 5 and 6 of the packet is an appointment
+for the C.A.R.E. (Chemical Additions Recovery Effort) Board. Chairman Quinn noting the
+appointment of Jim McKnight; calling for a motion. Commissioner McCroan so moved.
+Commissioner Farrell seconded the motion. Chairman Quinn called for public comment.
+There being no public comment, the motion passed unanimously.
+AMEND LAND DEVELOPMENT REGULATIONS – COMMERCIAL IMPERVIOUS
+AREA / ST. JOE BAY & INDIAN LAGOON
+County Administrator Hammond discussed page 7 (of the packet), recommending the
+Board modify the current LDR (Land Development Regulations) limiting commercial
+impervious area to a maximum of thirty percent (30%) on lots that are designated to two
+units per acre around St. Joe Bay and Indian Lagoon. He reported that the Board will
+need to hold two Public Hearings, the first will be held on December 14th and the second
+in January at their regular Board meeting. County Administrator Hammond requested the
+Board move forward and advertise for these Public Hearings. Chairman Quinn called for
+a motion to move forward and advertise. Commissioner McDaniel made the motion to
+move forward. Commissioner McCroan seconded the motion. Chairman Quinn called for
+public comment. There being no public comment, the motion passed unanimously.
+STATUS UPDATE – DEAD LAKES CAMPGROUND PROJECT
+Commissioner Rich requested an update regarding the progress of the Dead Lakes
+Campground project. Assistant County Administrator Smallwood stated that staff is
+waiting on the contractor (Madrid CPWG * Bid #2021-41) to sign the agreement.
+
+2022 CHAIRMAN & VICE CHAIRMAN
+Commissioner McDaniel motioned to allow Sandy Quinn, Jr. to remain serving as
+Chairman, and allow Vice Chairman Phil McCroan to serve for the calendar year 2022.
+Commissioner Farrell seconded the motion. After discussion by members of the Board,
+Chairman Quinn called for public comment. There being no public comment, the motion
+passed unanimously.
+SEWER SYSTEM – BEACON HILL
+Commissioner McDaniel discussed receiving a call from a resident regarding Mexico
+Beach no longer adding taps to the sewer system in Beacon Hill. County Administrator
+Hammond reported that the only thing that was approved in Beacon Hill, which was in
+2003 through a C.D.B.G. grant, was a sewer line for the Beacon Hill Assistant Living
+Facility which also included the subdivision in that area. He stated that since that time,
+the City of Port St. Joe and Gulf County entered into a Interlocal Agreement, where the
+City of Port St. Joe would run sewer eventually, when funds became available, to the
+remaining residents of Beacon Hill up to the (Bay) County line. County Administrator
+Hammond continued to state that over the next 13-15 years, without approval or objection
+from the County, some residents from the Beacon Hill area along U.S. Highway 98 from
+the Park North to the Bay County line have hooked on (to the City of Mexico Beach’s
+sewer system) and more hooked onto this line after Hurricane Michael. He reported that
+the County was notified a month ago from the City of Mexico Beach that this line is over
+capacity and will not be able to hook on anymore residents. County Administrator
+Hammond stated that he believes the City of Port St. Joe now has funds to run a line,
+reporting that Gulf Aire will have to be off-line, and the County will need to have
+discussions with the City of Port St. Joe regarding this project.
+EMPLOYEE VACCINE MANDATE – SACRED HEART HOSPITAL
+Commissioner Farrell stated that he was happy to hear that Sacred Heart (Hospital), in
+his opinion did the right thing. He reported that he received several calls that people are
+going back to work. Commissioner Farrell stated that he is happy that the people got their
+jobs back and the letter (from the County) worked.
+PUBLIC WORKS – SAULS CREEK
+Commissioner Farrell thanked Public Works Director Cothran for checking on Saul’s
+Creek.
+BOAT RAMP – WHITE CITY
+Commissioner Farrell requested an update on the White City Boat Ramp. Assistant Public
+Works Director Hart reported that power is on site, but they are waiting on parts to
+complete this project.
+EMPLOYEE VACCINE MANDATE – SACRED HEART HOSPITAL
+Commissioner McCroan agreed with Commissioner Farrell’s comments about the
+hospital, thanking the Governor (DeSantis) for standing strong for the people of Florida.
+
+PIPE PROJECT – OAK GROVE
+Commissioner McCroan thanked Public Works for the pipe job in Oak Grove. Public
+Works Director Cothran discussed the project, stating that this pipe carries all the water
+from Oak Grove Subdivision.
+ROAD WORK – INDIAN PASS
+Commissioner McCroan requested Public Works Director Cothran provide an update on
+the Indian Pass Road Project. Public Works Director Cothran stated that this project is on
+C-30A, just before the Raw Bar, reporting that the pipe has been compromised and the
+road has shifted some. He stated that the speed limit has been altered in this area until
+someone can come in and repair it. County Administrator Hammond requested
+permission from the Board to get this fixed; discussing a long-term remedy to close it off.
+He requested permission form the Board to allow staff to fix it under an emergency and
+staff will figure out how to pay for it. Commissioner McCroan made the motion.
+Commissioner McDaniel seconded the motion. Chairman Quinn called for public
+comment. There being no public comment, the motion passed unanimously.
+BERM PROJECT – INDIAN PASS & CAPE SAN BLAS
+Commissioner McCroan discussed using F.E.M.A. money to harden the Beaches at
+Indian Pass and Cape San Blas, requesting staff to provide an update. Assistant County
+Administrator Smallwood reported that construction started a few weeks ago and the first
+stretch is the first beach access point past Dead Man’s Curve, there to Money Bayou
+taking approximately four months and then flip over Money Bayou and go down to South
+Neptune Street. He stated that the second stretch is Beacon Hill/St. Joe Beach and the
+northern end of the Cape. Commissioner McCroan stated that the coastal engineers and
+F.E.M.A. set the parameters for this project. County Administrator Hammond reported
+that this is a $16 million-plus project, and the County waited for a reimbursement
+confirmation from F.E.M.A. and the approved match before starting this project.
+BY-LAWS & INTERLOCAL AGREEMENT – CAREERSOURCE GULF COAST
+CareerSource Gulf Coast Executive Director Kim Bodine appeared before the Board to
+discuss the recent changes to their by-laws and the proposed interlocal agreement,
+requesting the Board’s signature. County Administrator Hammond thanked Ms. Bodine
+for the work in Gulf County. Following discussion, Chairman Quinn called for a motion to
+accept the amended by-laws and interlocal agreement. Commissioner Farrell so moved.
+Commissioner McCroan seconded the motion. Chairman Quinn called for public
+comment. There being no public comment, the motion passed unanimously.
+STATUS REPORT – GULF CORRECTIONAL INSTITUTION
+GCI Warden Scott Payne appeared before the Board to provide a status update regarding
+Gulf Correctional Institution, reporting that all dorms are open at the Main Unit with a
+count of 1,663 inmates. He discussed the type of inmates that have been transferred to
+GCI and the increase in pay for employees. Commissioner McDaniel discussed the
+increase in population, inquiring about the shortfall of Correctional Officers. Warden
+Payne reported that the shortage at the Main Unit is forty (40) officers. Discussion
+followed regarding the GCI facility.
+
+PUBLIC HEARING – RIGHT-A-WAY ABANDONMENT / TROPICAL AVENUE
+Staff Assistant Planner Glass presented a proposed right-of-way abandonment on
+Tropical Avenue, formerly known as Sandblast Avenue. Chairman Quinn called for public
+comment. Jack Husband, of Southeastern Consulting Engineering appeared before the
+Board to discuss the right-of-way abandonment, providing members of the Board a site
+plan <copy provided to the Clerk for the record>. He stated in order to access this
+property, the owner would have to go to the end of Watermark Way, reporting this is the
+only property affected. Chairman Quinn called for the P.D.R.B. recommendation. Staff
+Assistant Planner Glass stated that this application does not go before the P.D.R.B.
+Chairman Quinn inquired if Mr. Husband had any objections to waiving the Quasi-Judicial
+Hearing. Mr. Husband had no objections. Chairman Quinn called for a motion to waive.
+Commissioner McDaniel so moved. Commissioner Farrell seconded the motion, and
+Chairman Quinn called for public comment. There being none, the motion passed
+unanimously. Chairman Quinn called for additional public comment. There was no further
+public comment. Chairman Quinn called for a motion to waive the formal reading.
+Commissioner Farrell so moved. Commissioner McCroan seconded the motion.
+Chairman Quinn called for public comment. There being none, the motion passed
+unanimously. Commissioner Farrell moved to approve. Commissioner Rich seconded the
+motion. Chairman Quinn called for public comment. County Attorney Novak stated for the
+record that the County adopted the right-of-way abandonment policy several years ago
+and the template provided has been followed by the applicant and staff, advertising as
+required, posted notice on the property and letters to the adjacent property owners. He
+stated that the fees have been paid, other than the advertisement fees. Chairman called
+for public comment. There being no public comment, the motion passed unanimously.
+ENGINEERING WORK – COUNTY ROAD 386 & COUNTY ROAD 387
+Commissioner Farrell thanked Jack Husband, of Southeastern Consulting Engineers for
+the engineering services on County Road 386 (Overstreet Road) and Doc Whitfield Road
+(Howard Creek-County Road 387).
+QUASI-JUDICIAL HEARING – REVIEW & CONSIDERATION OF P.D.R.B.
+APPLICATIONS
+VARIANCE – EMERGING FLORIDA INCOME OPPORTUNITY FUND
+Staff Assistant Planner Glass reported that a notice to withdraw was received for this
+variance request from Emerging Florida Income Opportunity Fund.
+VARIANCE – PHILIP FILIPPOU & CAROLE CHUPAK
+Staff Assistant Planner Glass reported that Philip Filippou and Carole Chupak have
+withdrawn their variance request as well <copy provided to the Clerk for the record>.
+SMALL SCALE MAP AMENDMENT – RISH FAMILY MARKET, LLC
+Staff Assistant Planner Glass presented a small-scale map amendment from Rish Family
+Market, LLC, Parcel ID #06076-004R, requesting approximately a 6.18 acre land use
+change from agriculture to mixed commercial/residential. He reported that the P.D.R.B.
+voted 3-0, with one abstaining, to approve. Chairman Quinn called those to speak on this
+matter to step forward. Jack Husband, of Southeastern Consulting Engineers appeared
+before the Board. Chairman Quinn inquired if Mr. Husband had any objections to waiving
+
+the Quasi-Judicial Hearing. Mr. Husband had no objection. Commissioner McCroan
+motioned to waive. Commissioner Farrell seconded the motion. Chairman Quinn called
+for public comment. There being none, the motion passed unanimously. Mr. Husband
+presented a copy of the application to members of the Board <copy provided to the Clerk
+for the record>, discussing the applicant’s request and the project. Chairman Quinn called
+for additional public comment. There was no additional public comment. Upon inquiry by
+Chairman Quinn, Staff Assistant Planner Glass stated that P.D.R.B. recommended, by 3-
+0 with one abstaining, to approve this small-scale map amendment. Chairman Quinn
+called for a motion to waive the formal reading. Commissioner McCroan so moved.
+Commissioner Rich seconded the motion. Chairman Quinn called for public comment.
+There being none, the motion passed unanimously. Commissioner McDaniel so moved
+for the change. Commissioner Rich seconded the motion. Chairman Quinn called for
+public comment. There being no public comment, the motion passed unanimously.
+BERM PROJECT – CAPE SAN BLAS
+Coastal Community Association President Pat Hardman appeared before the Board to
+inquire if property owners will need County and/or fill permits to put their walkovers back
+after the BERM Project is complete. County Administrator Hammond advised that the
+property owners need to obtain a fill permit, but a County permit will not be required. He
+stated that staff will contact D.E.P. regarding the fill permit as this is a County project.
+AMEND LAND DEVELOPMENT REGULATIONS – COMMERCIAL IMPERVIOUS
+AREA / ST. JOE BAY & INDIAN LAGOON
+CCA President Hardman inquired if this impervious area is just on the Bay side or does it
+include the Lagoon as well. County Administrator Hammond stated that it will include the
+Bay and the Lagoon, anything that is currently future land use for two units an acre on
+the Bay or the Lagoon.
+SHERIFF’S TOY DRIVE
+CCA President Hardman discussed the Gulf County Sheriff’s toy drive; reporting that
+there are approximately 300 children focused on this program. She encouraged the public
+to help with donations, asking members of the Board to bring a toy to the next Board
+meeting.
+DECEMBER BOARD MEETING SCHEDULE
+County Administrator Hammond reminded the Board that the regular December meeting
+has been canceled, but a special meeting will be held on December 14, 2021.
+MEETING WITH BOARD MEMBERS – SENIOR CITIZENS
+County Administrator Hammond stated that he will need to meet with members of the
+Board individually next week, reporting that the Senior Citizens are having problems and
+he needs to make the Board aware of this matter.
+
+STAFF UPDATE – JOE PAUL
+County Administrator Hammond asked the Board to remember Veterans’ Service Office
+Director & S.H.I.P. Director Paul as he has been in the hospital sick. He stated that he
+will need to meet with the Board regarding some H.H.R.P. matters.
+There being no further business, and upon motion by Commissioner McCroan, second
+by Commissioner Farrell, and unanimous vote, the meeting did then adjourn at 9:57 a.m.,
+E.T.
+SANDY QUINN, JR.
+CHAIRMAN
+ATTEST:
+REBECCA L. NORRIS
+CLERK OF COURT
