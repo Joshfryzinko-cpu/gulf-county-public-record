@@ -10,7 +10,7 @@ app = Flask(__name__)
 # ── Database ──────────────────────────────────────────────────────────────
 DB_PATH = os.environ.get(
     "DB_PATH",
-    r"C:\Users\Dryer\gulfcounty-bocc\data\bocc.db"
+    os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "bocc.db"),
 )
 
 def get_db():
@@ -347,10 +347,64 @@ def public_meetings():
 def public_meeting(mid):
     conn = get_db()
     m = conn.execute("SELECT * FROM meetings WHERE id=?", (mid,)).fetchone()
-    conn.close()
     if not m:
+        conn.close()
         return "Meeting not found", 404
-    return render_template("public/meeting_detail.html", meeting=m)
+    flags = conn.execute("""
+        SELECT lf.*, lr.cite, lr.title as law_title
+        FROM legal_flags lf
+        LEFT JOIN legal_refs lr ON lr.id = lf.legal_ref_id
+        WHERE lf.meeting_id=?
+        ORDER BY CASE lf.severity WHEN 'critical' THEN 1 WHEN 'significant' THEN 2 ELSE 3 END
+    """, (mid,)).fetchall()
+    conn.close()
+    return render_template("public/meeting_detail.html", meeting=m, flags=flags)
+
+
+# ── Official profile (new) ──────────────────────────────────────────────────
+ROLE_LABELS = {
+    "elected_bocc":    "Elected — Gulf County Board of County Commissioners",
+    "elected_const":   "Elected — Constitutional Officer",
+    "appointed_admin": "Appointed — County Administration",
+    "appointed_legal": "Appointed — County Legal Counsel",
+    "appointed_dept":  "Appointed — Department Leadership",
+}
+
+def last_name_of(full_name):
+    """Best-effort surname extraction for mention search, handling quoted nicknames/suffixes."""
+    cleaned = re.sub(r'["\u201c\u201d].*?["\u201c\u201d]', '', full_name)  # strip "Nickname"
+    parts = [p.strip(',.') for p in cleaned.split() if p.strip(',.')]
+    parts = [p for p in parts if p.upper() not in ("JR","SR","II","III","IV")]
+    return parts[-1] if parts else full_name
+
+@app.route("/official/<int:oid>")
+def public_official(oid):
+    conn = get_db()
+    p = conn.execute("SELECT * FROM knowledge_base WHERE id=?", (oid,)).fetchone()
+    if not p:
+        conn.close()
+        return "Official not found", 404
+    surname = last_name_of(p["subject"])
+    like = f"%{surname}%"
+    mentions = conn.execute("""
+        SELECT id, meeting_date, title, meeting_type, minutes_text, youtube_url
+        FROM meetings
+        WHERE minutes_text LIKE ? ORDER BY meeting_date DESC LIMIT 25
+    """, (like,)).fetchall()
+    related_flags = conn.execute("""
+        SELECT lf.*, m.meeting_date, m.title as meeting_title, lr.cite
+        FROM legal_flags lf
+        JOIN meetings m ON m.id = lf.meeting_id
+        LEFT JOIN legal_refs lr ON lr.id = lf.legal_ref_id
+        WHERE lf.subject LIKE ? ORDER BY m.meeting_date DESC
+    """, (like,)).fetchall()
+    conn.close()
+    role_label = ROLE_LABELS.get(p["sub_category"], p["sub_category"])
+    return render_template(
+        "public/official_detail.html",
+        p=p, role_label=role_label, mentions=mentions,
+        related_flags=related_flags, excerpt_fn=excerpt, surname=surname,
+    )
 
 
 @app.route("/flags")

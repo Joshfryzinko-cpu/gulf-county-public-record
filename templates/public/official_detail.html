@@ -1,0 +1,83 @@
+{% extends "public/base.html" %}
+{% block title %}{{ p.subject }} — Gulf County{% endblock %}
+{% block content %}
+<div class="mb-3"><a href="/commissioners" style="color:#888;font-size:.82rem">← All Officials</a></div>
+
+<div class="bg-white rounded-3 border p-4 mb-4" style="{% if p.flag_level in ['critical','significant','watch'] %}border-left:5px solid {% if p.flag_level=='critical' %}#dc3545{% elif p.flag_level=='significant' %}#d97706{% else %}#3b82f6{% endif %}!important;{% endif %}">
+  <div class="d-flex align-items-start gap-3 flex-wrap">
+    <div style="width:64px;height:64px;border-radius:50%;background:var(--navy);color:#fff;display:flex;align-items:center;justify-content:center;font-size:1.7rem;font-weight:800;flex-shrink:0">
+      {{ p.subject[0] }}
+    </div>
+    <div style="flex:1;min-width:220px">
+      <h2 style="color:var(--navy);font-weight:800;margin-bottom:2px">{{ p.subject }}</h2>
+      <div style="color:var(--teal);font-weight:600;font-size:.92rem">{{ role_label }}</div>
+      {% if p.flag_level != 'none' %}
+      <span class="badge badge-{{ p.flag_level }} mt-2" style="color:#fff">⚠️ {{ p.flag_level|upper }} FLAG</span>
+      {% endif %}
+    </div>
+  </div>
+
+  {% if p.detail %}
+  <div style="margin-top:16px;font-size:.88rem;line-height:1.7;color:#333">{{ p.detail }}</div>
+  {% endif %}
+
+  {% if p.flag_reason and p.flag_level != 'none' %}
+  <div style="margin-top:14px;padding:12px 16px;border-radius:6px;font-size:.84rem;line-height:1.7;
+    {% if p.flag_level=='critical' %}background:#fff1f2;border-left:3px solid #dc3545;color:#7f1d1d;
+    {% elif p.flag_level=='significant' %}background:#fffbeb;border-left:3px solid #d97706;color:#78350f;
+    {% else %}background:#eff6ff;border-left:3px solid #3b82f6;color:#1e3a5f;{% endif %}">
+    <strong>Eagle Eye Flag:</strong> {{ p.flag_reason }}
+    <div style="margin-top:6px;font-size:.72rem;font-style:italic;opacity:.85">
+      This is a documented fact pattern for review, not a finding of wrongdoing. Read the underlying meeting minutes below before drawing conclusions.
+    </div>
+  </div>
+  {% endif %}
+</div>
+
+<!-- What we don't have yet — plain disclosure, not a fabricated field -->
+<div class="bg-white rounded-3 border p-3 mb-4" style="border-left:4px solid #9ca3af!important">
+  <div style="font-weight:700;color:#555;font-size:.82rem;margin-bottom:6px">📋 Record completeness for this profile</div>
+  <div style="font-size:.78rem;color:#777;line-height:1.7">
+    Official contact information, exact appointment/term dates, and (for appointed officials) the specific
+    appointing authority and appointment record are <strong>not yet available</strong> in this database.
+    What you see here is built from Gulf County BOCC meeting minutes text only (2017–2026).
+    <a href="https://www.gulfcounty-fl.gov" target="_blank">Visit gulfcounty-fl.gov</a> for current official contact info.
+  </div>
+</div>
+
+<h5 style="color:var(--navy);font-weight:700;border-bottom:2px solid var(--border);padding-bottom:6px;margin-bottom:16px">
+  ⚖️ Related Legal Flags ({{ related_flags|length }})
+</h5>
+{% if related_flags %}
+  {% for f in related_flags %}
+  <div class="bg-white rounded-3 border mb-2 p-3" style="border-left:4px solid {% if f.severity=='critical' %}#dc3545{% elif f.severity=='significant' %}#d97706{% else %}#3b82f6{% endif %}!important">
+    <div style="font-size:.72rem;color:#888;margin-bottom:4px">{{ f.meeting_date }} · {{ f.meeting_title }} {% if f.cite %}· <span style="color:var(--teal)">{{ f.cite }}</span>{% endif %}</div>
+    <div style="font-size:.83rem;color:#333;line-height:1.6">{{ f.description }}</div>
+    <a href="/meeting/{{ f.meeting_id }}" style="font-size:.76rem;color:var(--teal)">View full meeting →</a>
+  </div>
+  {% endfor %}
+{% else %}
+  <div class="text-muted" style="font-size:.85rem">No legal flags are linked to this name.</div>
+{% endif %}
+
+<h5 style="color:var(--navy);font-weight:700;border-bottom:2px solid var(--border);padding-bottom:6px;margin:28px 0 16px">
+  📅 Meeting Mentions ({{ mentions|length }}{% if mentions|length == 25 %}+{% endif %})
+</h5>
+<div style="font-size:.76rem;color:#999;margin-bottom:12px">
+  Matched by surname ("{{ surname }}") against official meeting minutes text — may include unrelated people who share the surname; always verify against the source.
+</div>
+{% for m in mentions %}
+<div class="bg-white rounded-3 border mb-2 p-3 d-flex justify-content-between align-items-start flex-wrap gap-2">
+  <div style="flex:1;min-width:200px">
+    <div style="font-weight:700;color:var(--navy);font-size:.86rem">{{ m.meeting_date }} — {{ m.title }}</div>
+    <div style="font-size:.8rem;color:#555;margin-top:4px">{{ excerpt_fn(m.minutes_text, surname, 200)|safe }}</div>
+  </div>
+  <div class="d-flex gap-2 flex-shrink-0">
+    {% if m.youtube_url %}
+    <a href="{{ m.youtube_url }}" target="_blank" class="btn btn-outline-danger btn-sm py-0 px-2" style="font-size:.72rem"><i class="bi bi-youtube me-1"></i>Watch</a>
+    {% endif %}
+    <a href="/meeting/{{ m.id }}" class="btn btn-outline-secondary btn-sm py-0 px-2" style="font-size:.72rem">View meeting</a>
+  </div>
+</div>
+{% endfor %}
+{% endblock %}

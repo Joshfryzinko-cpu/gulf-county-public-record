@@ -3,7 +3,8 @@
 {% block content %}
 <h2 style="color:var(--navy);font-weight:800;margin-bottom:20px">🏛️ Appointed Officials</h2>
 {% for p in profiles %}
-<div class="bg-white rounded-3 border p-3 mb-2" style="{% if p.flag_level=='significant' %}border-left:4px solid #d97706!important;{% elif p.flag_level=='critical' %}border-left:4px solid #dc3545!important;{% elif p.flag_level=='watch' %}border-left:4px solid #3b82f6!important;{% endif %}">
+<a href="/official/{{ p.id }}" class="text-decoration-none">
+<div class="bg-white rounded-3 border p-3 mb-2 card-hover" style="{% if p.flag_level=='significant' %}border-left:4px solid #d97706!important;{% elif p.flag_level=='critical' %}border-left:4px solid #dc3545!important;{% elif p.flag_level=='watch' %}border-left:4px solid #3b82f6!important;{% endif %}">
   <div class="d-flex align-items-center gap-2 mb-1">
     <span style="font-weight:700;color:var(--navy);font-size:.9rem">{{ p.subject }}</span>
     {% if p.flag_level != 'none' %}
@@ -14,5 +15,6 @@
   <div style="font-size:.78rem;color:#555;line-height:1.6">{{ p.flag_reason[:200] }}{% if p.flag_reason|length > 200 %}…{% endif %}</div>
   {% endif %}
 </div>
+</a>
 {% endfor %}
 {% endblock %}
