@@ -4,6 +4,7 @@ Public-facing Flask app. Read-only access to bocc.db.
 """
 import os, sqlite3, re, json
 from flask import Flask, render_template, request, jsonify, g
+from report_card import fuzzy_match_officials, build_report_card
 
 app = Flask(__name__)
 
@@ -376,6 +377,64 @@ def last_name_of(full_name):
     parts = [p.strip(',.') for p in cleaned.split() if p.strip(',.')]
     parts = [p for p in parts if p.upper() not in ("JR","SR","II","III","IV")]
     return parts[-1] if parts else full_name
+
+
+# ── Report card: one search box, name + topic ───────────────────────────────
+@app.route("/reportcard")
+def reportcard():
+    q = request.args.get("q", "").strip()
+    pick_id = request.args.get("official_id", type=int)
+    conn = get_db()
+    officials = conn.execute("SELECT * FROM knowledge_base").fetchall()
+
+    if pick_id:
+        # user already disambiguated -- topic is whatever's left in q after removing picked name words
+        chosen = conn.execute("SELECT * FROM knowledge_base WHERE id=?", (pick_id,)).fetchone()
+        topic = request.args.get("topic", "").strip()
+        conn.close()
+        if not chosen:
+            return "Official not found", 404
+        if not topic:
+            from flask import redirect
+            return redirect(f"/official/{pick_id}")
+        conn2 = get_db()
+        card = build_report_card(chosen, topic, conn2)
+        conn2.close()
+        return render_template("public/report_card.html", card=card, q=q)
+
+    if not q:
+        conn.close()
+        return render_template("public/report_card.html", card=None, q=q, no_query=True)
+
+    tokens = q.split()
+    best_matches, name_len = [], 0
+    for prefix_len in range(len(tokens), 0, -1):
+        candidate_name = " ".join(tokens[:prefix_len])
+        matches = fuzzy_match_officials(candidate_name, officials)
+        if matches:
+            best_matches, name_len = matches, prefix_len
+            break
+
+    if not best_matches:
+        conn.close()
+        return render_template("public/report_card.html", card=None, q=q, no_match=True)
+
+    topic = " ".join(tokens[name_len:]).strip()
+
+    if len(best_matches) > 1:
+        conn.close()
+        return render_template("public/report_card.html", card=None, q=q,
+                                disambiguate=best_matches, topic=topic)
+
+    if not topic:
+        oid = best_matches[0]["id"]
+        conn.close()
+        from flask import redirect
+        return redirect(f"/official/{oid}")
+
+    card = build_report_card(best_matches[0], topic, conn)
+    conn.close()
+    return render_template("public/report_card.html", card=card, q=q)
 
 @app.route("/official/<int:oid>")
 def public_official(oid):

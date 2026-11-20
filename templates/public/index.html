@@ -86,6 +86,15 @@
     </form>
   </div>
 
+  <!-- Report card search -->
+  <div class="search-wrap" style="margin-top:6px">
+    <form action="/reportcard" method="get" autocomplete="off">
+      <input type="text" name="q" class="search-input" style="border-color:rgba(200,151,42,.5)"
+             placeholder='Official + topic → report card, e.g. "Phil McCroan bay" or "McCroan taxes"'>
+      <button type="submit" class="search-btn" style="background:#0d2b55;color:#fff">Get Report Card</button>
+    </form>
+  </div>
+
   <!-- Stats pills -->
   <div class="stat-row">
     <div class="stat-pill"><strong>{{ stats.meetings }}</strong> Meetings</div>
